@@ -1,0 +1,34 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Cyberpunk Figure Showcase (No Voice)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: যারা সাইবারপাংক (Cyberpunk), সাই-ফাই মুভি, কাস্টম অ্যাকশন ফিগার (Miniatures/Collectibles), থ্রিডি আর্ট এবং ম্যাক্রো ফটোগ্রাফি পছন্দ করেন, তারাই এই নিশের মূল দর্শক[cite: 6]।
+* ভাইরাল হওয়ার মূল কারণ: "Visual Satisfaction" এবং "Insane Attention to Detail"। সম্পূর্ণ সাদা ব্যাকগ্রাউন্ডে (Stark white backdrop) যখন একটি সাইবারপাংক ফিগারের মেকানিক্যাল পার্টস, মরিচা (Rust), এবং চেহারার এক্সট্রিম ডিটেইলস ম্যাক্রো লেন্সে দেখানো হয়, তখন তা দর্শককে হিপনোটাইজ করে ফেলে[cite: 6]। ভয়েসওভার না থাকায় ফাস্ট-পেসড সিন্থওয়েভ বা সাইবারপাংক ইলেকট্রনিক মিউজিক পুরো ভিজ্যুয়ালকে আরও প্রিমিয়াম এবং এজি (Edgy) করে তোলে[cite: 6]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি ভিডিওতে একটি নির্দিষ্ট সাইবারপাংক ক্যারেক্টার বা তার ওয়েপন শোকেস করা হবে[cite: 6]। কোনো ভয়েসওভার থাকবে না, পুরোটাই মিউজিক-সিঙ্কড ম্যাক্রো সিনেমাটোগ্রাফি (Macro panning, extreme close-up) নির্ভর হবে[cite: 6]। 
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলে ফিগারের স্পেসিফিকেশন, ওয়েপন এবং "Hyper-Realistic" বা "Custom Build" শব্দগুলো থাকবে, যা কালেক্টর এবং সাই-ফাই ফ্যানদের আকর্ষণ করবে।
+* Title Patterns:
+  * "Hyper-Realistic Cyberpunk Mercenary Figure Showcase"
+  * "Custom Cyborg Assassin Miniature - Macro Details"
+  * "Weathered Sci-Fi Collectible: Plasma Rifle Showcase"
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist for a No-Voice Miniature Showcase channel. Generate 5 highly engaging short-form video ideas focusing on Hyper-Realistic Cyberpunk Collectible Figures. For each idea, provide: 1. A highly clickable title, 2. The specific cyborg/cyberpunk character concept (e.g., Heavy Gunner, Street Samurai), 3. The primary weapon or mechanical augmentation to focus on."
+
+৩. স্ক্রিপ্ট/অ্যাকশন ব্লুপ্রিন্ট (Visual Storytelling Framework)
+
+যেহেতু কোনো ভয়েসওভার নেই, তাই ভিডিওর স্ক্রিপ্ট হবে মূলত ক্যামেরা ডিরেকশন এবং মিউজিক বিট-এর কম্বিনেশন[cite: 6]:
+* 0:00 - 0:03 (The Reveal): মিউজিকের প্রথম বিটের সাথে সম্পূর্ণ ফিগারের একটি ওয়াইড শট। সাদা স্টুডিও ব্যাকগ্রাউন্ড এবং ফিগারের তীক্ষ্ণ ও রাগান্বিত দৃষ্টি (Fierce intense stare)[cite: 6]।
+* 0:03 - 0:07 (Weapon Focus): ম্যাক্রো প্যানিং শট (Macro panning)। বিশাল সাই-ফাই অস্ত্র এবং তার গায়ের মেকানিকাল পার্টসে রাস্ট বা মরিচা এর ওপর এক্সট্রিম ক্লোজ-আপ[cite: 6]। 
+* 0:07 - 0:12 (Mechanical Details): সাইবারনেটিক পা (Cyborg mechanical leg) বা রোবোটিক হাতের মেটালিক রিফ্লেকশন এবং এক্সপোজড তারগুলোর (Exposed orange wires) ডিটেইলড শট[cite: 6]। 
+* 0:12 - 0:15 (The Climax Face): মিউজিকের ড্রপের সাথে চেহারার এক্সট্রিম ক্লোজ-আপ—ময়লা, স্ক্র্যাচ, অবিন্যস্ত কোঁকড়ানো চুল এবং রিয়ালিস্টিক স্কিন পোরস (Realistic skin pores)[cite: 6]। 
+* Master Script Prompt: 
+  "Write a 15-second visual sequence script for a Cyberpunk Figure Showcase video. No voiceover. Describe the exact camera movements (smooth macro panning, extreme close-up), lighting (stark white studio background, diffused light), and character details (rust, dirt, cyborg augmentations, fierce stare) matching a synthwave music beat."[cite: 6]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: সম্পূর্ণ সাদা স্টুডিও ব্যাকগ্রাউন্ডের (Stark white backdrop) বিপরীতে ফিগারের ডার্ক, ব্যাটল-ওয়েদারড লুক (Battle-weathered) এবং তীক্ষ্ণ দৃষ্টি মারাত্মক কনট্রাস্ট তৈরি করবে, যা স্ক্রলিংয়ের সময় ইউজারের চোখ আটকে দেবে[cite: 6]।
+* Master Thumbnail Prompt: 
+  "Macro portrait video shot of a battle-hardened cyberpunk female figure with messy dark curly hair, heavy dirt and grease smudges on her realistic face, staring fiercely directly into the camera lens. White studio background, 8K resolution, hyper-detailed skin pores and realistic eye reflections. Soft diffused studio lighting, shallow depth of field, intricate rusty cybernetic augmentations, clean minimalist composition, no text, no watermark --ar 16:9"[cite: 6]

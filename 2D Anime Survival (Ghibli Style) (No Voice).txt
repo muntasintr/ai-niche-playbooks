@@ -1,0 +1,43 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: 2D Anime Survival (Ghibli Style)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই niche-এর core audience হলো 2D anime, survival storytelling, nature ambience, emotional family stories, cozy environments এবং ASMR-style cinematic content পছন্দ করা viewers[cite: 11]। দর্শকরা adventure-এর পাশাপাশি শান্ত, nostalgic এবং emotionally comforting viewing experience খোঁজে[cite: 11]।
+* ভাইরাল হওয়ার মূল কারণ: Survival tension + emotional attachment + cozy visual contrast[cite: 11]। Heavy rain, isolated forest, abandoned train এবং limited resources viewer-এর curiosity তৈরি করে[cite: 11]। একইসঙ্গে warm firelight, family bonding এবং peaceful morning scenes emotional comfort দেয়[cite: 11]। Hardship থেকে safety এবং loneliness থেকে companionship-এর contrast retention বাড়াতে পারে[cite: 11]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি video একটি survival journey, environmental challenge, family relationship, abandoned location অথবা nature-based mystery কেন্দ্র করে তৈরি হবে[cite: 11]। Story progression ধীর হবে, কিন্তু প্রতিটি কয়েক মিনিটে নতুন survival problem, discovery, emotional beat, অথবা environmental change থাকবে[cite: 11]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: Titles should combine survival curiosity, emotional mystery, nature, isolation, and a visually memorable location[cite: 11]। Avoid generic anime titles[cite: 11]। Main curiosity should come from questions such as how the characters survive, what they discover, or why they are isolated[cite: 11]।
+* Title Patterns:
+  * "Surviving 7 Days Inside an Abandoned Train"[cite: 11]
+  * "They Found an Abandoned Train Deep in the Forest"[cite: 11]
+  * "Alone in the Rain: A Family's Survival Journey"[cite: 11]
+  * "We Found Shelter Inside a Forgotten Train"[cite: 11]
+  * "Life After the Last Train Disappeared"[cite: 11]
+* Master Idea Prompt: 
+  "You are an Elite YouTube Story Strategist. Generate 10 highly engaging video ideas for my 2D Anime Survival channel. Focus on wilderness survival, abandoned places, family bonds, rainy forests, forgotten railways, peaceful nature, emotional hardship, and cozy survival moments. For each idea, provide: 1. A Clickable English Title, 2. A 2-sentence psychological hook, 3. The core survival conflict, 4. The emotional relationship or character motivation, 5. The main visual payoff."[cite: 11]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:00 (Atmospheric Hook): Open with a visually beautiful but isolated survival moment. Establish rain, forest, abandoned railway, or another mysterious environment[cite: 11]।
+* 1:00 - 4:00 (Arrival & Discovery): Introduce characters, their relationship, survival situation, and the abandoned location[cite: 11]।
+* 4:00 - 9:00 (The Survival Challenge): Introduce practical environmental problems such as rain, cold, lack of food, damaged shelter, darkness, or difficult terrain[cite: 11]।
+* 9:00 - 13:00 (Bond & Discovery): Characters cooperate, discover something meaningful, improve their shelter, or uncover a hidden part of the environment[cite: 11]।
+* 13:00 - 17:00 (Storm / Major Challenge): Introduce the strongest environmental challenge and create emotional tension[cite: 11]।
+* 17:00 - 20:00 (Peace & Reflection): Resolve the immediate survival problem and transition into warm, peaceful imagery such as firelight, morning sunlight, or quiet forest ambience[cite: 11]।
+* Master Script Prompt: 
+  "You are a Master 2D Anime Survival Storywriter. Write a 20-minute cinematic survival story for the title '[Insert Title]'.
+  Tone: Calm, emotional, nostalgic, heartwarming, nature-driven, and immersive.
+  Structure it following this framework: [0-1m: Atmospheric hook] [1-4m: Arrival and discovery] [4-9m: Survival challenge] [9-13m: Bond and discovery] [13-17m: Major environmental challenge] [17-20m: Peace, recovery, and reflection].
+  Use calm, reflective anime-style narration. Focus on survival, family relationships, nature, atmosphere, and emotional moments.
+  Include precise visual and audio cues in brackets for the editor, such as: [Slow pan across rain-covered railway tracks | SFX: heavy rain], [Medium shot inside abandoned train carriage | Warm kerosene lamp], [Static wide shot of forest at dawn | Ambient: birds and flowing water].
+  Keep visuals consistent with 2D hand-drawn anime aesthetics, cel-shading, lush animated woodland, abandoned rustic train environments, and nostalgic cinematic atmosphere."[cite: 11]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: Thumbnail should immediately communicate survival, isolation, mystery, and emotional warmth[cite: 11]। Use one strong environment such as an abandoned train surrounded by dense forest, a family sheltering from heavy rain, or warm firelight contrasting against a dark wilderness[cite: 11]। Keep the composition simple[cite: 11]। One dominant location or character group, strong environmental contrast, expressive faces, and minimal text[cite: 11]।
+* Text Strategy: Text Examples: "7 DAYS ALONE", "NO WAY HOME", "ABANDONED TRAIN", "SURVIVE THE STORM"[cite: 11]।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "High-quality 2D hand-drawn anime illustration, classic Japanese cinematic animation aesthetic, lush animated woodland surrounding an abandoned overgrown train carriage, a small family sheltering inside near a warm kerosene lamp, heavy rain falling outside, warm orange interior light contrasting with cool dark green forest, expressive emotional faces, detailed hand-painted background, cinematic composition, atmospheric depth, soft cel-shading, nostalgic survival mood, beautiful environmental storytelling, negative space for minimal text, no 3D, no CGI, no photorealism, no modern technology, no neon, no watermark, --ar 16:9"[cite: 11]

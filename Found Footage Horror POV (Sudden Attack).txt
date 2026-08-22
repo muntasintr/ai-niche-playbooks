@@ -1,0 +1,47 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: যারা সারভাইভাল থ্রিলার, ফাউন্ড-ফুটেজ হরর, জাম্প-স্কেয়ার (Jump-scare) এবং ডার্ক মিস্ট্রি পছন্দ করেন।
+
+
+* ভাইরাল হওয়ার মূল কারণ: রিয়েলিজম এবং সাডেন প্যানিক (Realism & Sudden Panic)। কোনো ভয়েসওভার না থাকায় এবং রিয়েল-টাইম রেডিও স্ট্যাটিক, ভারী শ্বাস-প্রশ্বাস ও ডেসপ্যারেট ডায়ালগ (Desperate dialogue) ব্যবহারের কারণে এটি বাস্তব 'Leaked Footage' এর মতো ফিল দেয়। ফার্স্ট-পারসন পিওভি (First-person POV) এবং চোখের পলকে লেন্সের ওপর সরাসরি অ্যাটাক (Lightning-fast attack) দর্শককে চরম ভয় পাইয়ে দেয় এবং রিটেনশন ধরে রাখে।
+
+
+* কন্টেন্ট স্ট্র্যাটেজি: প্রতিটি ভিডিও একটি নির্দিষ্ট 'Locked Location' বা আবদ্ধ পরিবেশে (যেমন: চলন্ত উদ্ধারকারী হেলিকপ্টার, স্পিডবোট বা অন্ধকার জঙ্গল) সেট করা হবে। সাসপেন্স তৈরি করে ভিডিওর শেষে ক্যামেরার ফ্রেম চুরমার করে দেওয়া হবে।
+
+
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলগুলো এমন হবে যেন এটি কোনো লিক হওয়া বডিক্যাম বা সিক্রেট রেসকিউ অপারেশনের ফুটেজ।
+* Title Patterns:
+* "LEAKED: Coast Guard Helmet Cam Footage"
+* "Search & Rescue Mission Gone Wrong"
+* "DO NOT Watch This Swamp Footage Alone"
+
+
+* Master Idea Prompt:
+"You are an Elite Horror Strategist. Generate 5 terrifying short-form video ideas for a Found Footage POV channel focusing on Search & Rescue Operations encountering paranormal entities. For each idea, provide: 1. A highly clickable 'Leaked Footage' style title, 2. A specific Locked Location (e.g., stormy ocean, pitch-black swamp), 3. The terrifying entity description, 4. The specific lightning-fast jump-scare climax."
+
+৩. স্ক্রিপ্ট/অ্যাকশন ব্লুপ্রিন্ট (Visual Storytelling Framework)
+
+যেহেতু কোনো ন্যারেশন বা ভয়েসওভার থাকবে না, তাই পুরো স্টোরি সাউন্ড ডিজাইন এবং র-ফুটেজ (Raw footage) স্টাইলের ওপর নির্ভর করবে:
+
+* 0:00 - 0:05 (Atmosphere & Panic): ফার্স্ট-পারসন পিওভি (First-person POV)। ঘুটঘুটে অন্ধকার, ঝড়ো আবহাওয়া বা ক্লাস্ট্রোফোবিক পরিবেশ। ব্যাকগ্রাউন্ডে ভারী শ্বাস-প্রশ্বাস এবং রেডিও স্ট্যাটিক শোনা যাবে।
+
+
+* 0:05 - 0:10 (The Discovery): ক্যামেরার সার্চলাইট বা ফ্ল্যাশলাইটের আলোতে হঠাৎ করে একটি অস্বাভাবিক কঙ্কালসার বা ফ্যাকাশে চামড়ার এন্টিটি (Entity) দেখা যাবে। প্যানিকড ডায়ালগ: "What the hell is that?!"।
+
+
+* 0:10 - 0:15 (The Jump-Scare Climax): এন্টিটিটি কোনো স্লো-মোশনে মুভ করবে না; চোখের পলকে (Lightning-fast) চরম মোশন ব্লার (Motion blur) সহ সরাসরি ক্যামেরার লেন্সের ওপর ঝাঁপিয়ে পড়বে এবং ফ্রেম চুরমার করে ভিডিও শেষ হবে।
+
+
+* Master Script Prompt:
+"Write a 15-second visual sequence script for a Found Footage Horror POV video. NO VOICEOVER. Describe the first-person shaky camera movement, the gloomy claustrophobic lighting, and the environmental sounds (heavy breathing, rain, radio static). The climax MUST feature a bizarre pale entity lunging lightning-fast straight at the camera with extreme motion blur, shattering the frame."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: থাম্বনেইলটি দেখতে একদম অরিজিনাল বডিক্যাম বা হ্যান্ডহেল্ড স্মার্টফোনের পজ করা ভিডিওর মতো হতে হবে। ডার্ক ব্যাকগ্রাউন্ডে টর্চের আলোয় অস্পষ্ট কিন্তু ভয়ংকর কিছুর উপস্থিতি ইউজারের কিউরিসিটি এবং ভয়—দুটোই বাড়িয়ে দেবে।
+* Master Thumbnail Prompt:
+"Hyper-realistic found footage horror POV, looking through a rain-covered shaky camera lens at a terrified pale humanoid entity with pitch-black hollow eye sockets in a pitch-black flooded swamp. Harsh flashlight illumination cutting through the darkness, heavy thunderstorm, high contrast, eerie claustrophobic atmosphere, cinematic VFX style, uncomfortably close to the lens, motion blur, no text, no watermark, 8k --ar 16:9"

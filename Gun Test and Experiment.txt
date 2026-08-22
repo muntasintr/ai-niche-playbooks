@@ -1,0 +1,34 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Firearm Experiments & Tests (GunExperiments)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: Firearm experiments, ballistics, physical science, extreme material tests, impact physics এবং visually satisfying controlled experiments নিয়ে যাদের আগ্রহ আছে, তারাই এই চ্যানেলের মূল দর্শক[cite: 8]।
+* ভাইরাল হওয়ার মূল কারণ: Curiosity gap + anticipation + visible physical result[cite: 8]। দর্শক জানতে চায় কোন material কতটা impact সহ্য করতে পারবে, তারপর actual result দেখার জন্য video ধরে রাখে[cite: 8]। High-speed footage, unexpected results, এবং dramatic physical reactions strong retention তৈরি করতে পারে[cite: 8]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি video একটি clear experimental question কেন্দ্র করে তৈরি হবে[cite: 8]। Setup → prediction → controlled test → impact/result → comparison → explanation structure অনুসরণ করবে[cite: 8]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: Titles should create strong curiosity around an experiment, material, impact, or unexpected result[cite: 8]। Main focus থাকবে "Can it survive?", "What happens when?", "How many layers?", "Which material wins?" ধরনের unanswered questions-এর উপর[cite: 8]।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Firearm Experiments & Tests channel. Focus on physical science experiments, ballistics, material testing, impact forces, and surprising controlled results. For each idea, provide: 1. A Clickable English Title, 2. A 2-sentence psychological hook, 3. The core experiment question, 4. The expected physical/scientific outcome."[cite: 8]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 0:30 (Hook): Show the most visually interesting experiment moment or result and immediately establish the question[cite: 8]।
+* 0:30 - 2:00 (Setup): Introduce the test material, controlled environment, equipment, and experiment objective[cite: 8]।
+* 2:00 - 4:00 (Prediction): Explain what viewers expect to happen and introduce the basic physical principle[cite: 8]।
+* 4:00 - 7:00 (The Test): Conduct the controlled experiment and capture impact using high-speed/slow-motion footage[cite: 8]।
+* 7:00 - 9:00 (Comparison): Compare different materials, layers, or test results[cite: 8]।
+* 9:00 - 10:00 (Result & Explanation): Explain why the material behaved that way and reveal the most surprising result[cite: 8]।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write a 10-minute script for the title '[Insert Title]'.
+  Tone: Extremely energetic, curious, thrilling, and action-packed.
+  Structure it perfectly following this framework: [0-30s: Hook, 30s-2m: Setup, 2-4m: Prediction, 4-7m: Controlled Test, 7-9m: Comparison, 9-10m: Result + Scientific Explanation].
+  Include precise visual and audio cues in brackets [e.g., high-speed impact shot | SFX: metallic impact, debris, outdoor ambience] for the editor. Keep the focus on controlled experiments, physical science, and non-living targets."[cite: 8]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: Thumbnail should instantly communicate extreme impact, curiosity, and experiment scale[cite: 8]। Show one dominant target or material at the moment of impact[cite: 8]। High-speed debris, sparks, water splashes, deformation, and dramatic close-ups create immediate visual curiosity[cite: 8]।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Ultra-realistic outdoor high-speed action photography. Subject: [e.g., multiple metal pans arranged as a controlled experimental target]. Environment: [professional outdoor testing range with clean controlled setup]. Composition: dramatic frozen impact moment, visible material deformation and flying debris, cinematic daylight, sharp details, high-speed photography aesthetic, professional safety equipment visible, strong contrast, realistic textures, negative space for minimal text, no humans or animals as targets, no blood, no graphic violence, no unsafe handling, 8k, highly detailed, --ar 16:9"[cite: 8]

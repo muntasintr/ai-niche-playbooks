@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: 3D Kids Rhyme (Cocomelon Style) (No Voice)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: ২-৫ বছর বয়সী বাচ্চা এবং তাদের বাবা-মা, যারা শিক্ষামূলক এবং নার্সারি রাইম কন্টেন্ট খোঁজেন[cite: 1]।
+* ভাইরাল হওয়ার মূল কারণ: CoComelon-এর মূল সিক্রেট হলো repetition + predictability[cite: 1]। বাচ্চারা নতুন কিছু চায় না — তারা চায় পরিচিত জিনিস বারবার[cite: 1]। YouTube Kids অ্যালগরিদম রিপিট ভিউকে ভীষণ প্রাধান্য দেয় — একই বাচ্চা একই ভিডিও ১০-২০ বার দেখে, যেটা ওয়াচ টাইম এবং RPM দুটোই বাড়িয়ে দেয়[cite: 1]। 
+* কন্টেন্ট স্ট্র্যাটেজি: প্রতিটা ভিডিওতে একটাই ফর্মুলা: একটা দৈনন্দিন রুটিন (স্কুলে যাওয়া, গোসল করা, খাবার খাওয়া) বা ভেহিকেল নিয়ে গান[cite: 1]। প্রতিটা লাইনে একটা সাউন্ড এফেক্ট শব্দ (vroom vroom, swish swish), আর স্ক্রিনের নিচে বাউন্সিং ক্যাপশন থাকে যাতে প্যারেন্টরাও সাথে গাইতে পারে[cite: 1]। 
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেল সবসময় "[Vehicle/Routine] Song | Nursery Rhymes & Kids Songs" প্যাটার্নে হবে, যা parents-দের সার্চ কোয়েরির সাথে এক্সাক্ট ম্যাচ করে[cite: 1]।
+* Master Idea Prompt:
+  "ROLE: You are a Children's Content Strategist specializing in the CoComelon-style nursery rhyme format. TASK: Generate 5 new video ideas for this niche. Each idea must center on ONE everyday toddler routine or ONE vehicle type (e.g., going to school, taking a bath, fire truck). Each idea must be breakable into 5-8 short verses (action + onomatopoeia). OUTPUT: 1. Working Title, 2. One-line Concept, 3. Suggested Verse List, 4. Search-Intent Keywords."[cite: 1]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 0:03 (INTRO): Brand bumper cue (logo chime, no lyrics)[cite: 1]।
+* 0:03 - 0:20 (VERSE 1): Lyric line repeated 2-3x with a small variation (e.g., "The [subject] on the [main object] go [onomatopoeia]")[cite: 1]।
+* 0:20 - 2:45 (VERSE 2 to 8): Same structure, one new action/sound-effect per verse, in a logical sequence (wake up → get ready → travel)[cite: 1]।
+* Last 10-15 sec (OUTRO): Closing repeated line tying back to Verse 1 (bookend structure) and warm freeze-frame recap[cite: 1]।
+* Master Script Prompt:
+  "ROLE: You are a Children's Song Scriptwriter. Write a 2-3 minute script for [VIDEO TOPIC]. Structure: INTRO (0-3s), VERSE 1-8 (15-20s each), OUTRO (last 10-15s). Every lyric line must be simple, present-tense, and repeatable 2-3 times. Every verse must pair ONE physical action with ONE onomatopoeia sound. Keep character names consistent."[cite: 1]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: থাম্বেইলে সবসময় brand mascot + main vehicle + বড় বড় eyes থাকতে হবে[cite: 1]। toddler-রা চোখ দেখে ক্লিক করে না, parents থাম্বেইল দেখে ক্লিক করে (facial expression cue)[cite: 1]। 
+* Master Thumbnail Prompt:
+  "Glossy 3D CGI render, toddler-safe rounded character design, [1-2 main toddler characters with oversized expressive eyes and big smiles] positioned [interacting with] a [MAIN VEHICLE/OBJECT], bright oversaturated pastel color palette, flat even daylight lighting, clean simple background, camera at eye-level close-up framing filling 70% of frame, exaggerated cheerful facial expression, thick bold sans-serif space reserved top or bottom for text overlay, no clutter --ar 16:9"[cite: 1]

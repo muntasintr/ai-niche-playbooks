@@ -1,0 +1,44 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Premium Food Documentary (CinematicFoodHistory)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই niche-এর core audience হলো food history, ancient civilizations, forgotten recipes, historical culture, culinary traditions এবং cinematic documentary content পছন্দ করা viewers[cite: 4]।
+* ভাইরাল হওয়ার মূল কারণ: Familiar food + historical mystery + visual transformation[cite: 4]। দর্শক পরিচিত কোনো খাবার বা ingredient-এর ancient origin, historical journey, forgotten preparation method, অথবা cultural significance জানতে চায়[cite: 4]। Premium cinematic visuals curiosity এবং perceived value বাড়ায়[cite: 4]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি video একটি নির্দিষ্ট food, ingredient, recipe, cooking tradition, historical figure, civilization অথবা culinary mystery কেন্দ্র করে তৈরি হবে[cite: 4]। Food-এর origin → historical context → transformation → modern significance এই progression ব্যবহার করা হবে[cite: 4]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: Title-এ mystery, historical discovery, familiar food এবং unexpected origin ব্যবহার করা হবে[cite: 4]। Generic "History of..." title এড়িয়ে এমন framing ব্যবহার করা হবে যাতে viewer জানতে চায় খাবারটির আসল ইতিহাস কী[cite: 4]।
+* Title Patterns:
+  * "The Forgotten History of Coffee"[cite: 4]
+  * "How Ancient People Really Made Bread"[cite: 4]
+  * "The Food That Changed an Empire"[cite: 4]
+  * "Why This Ancient Recipe Disappeared"[cite: 4]
+* Master Idea Prompt: 
+  "You are an Elite YouTube Food History Strategist. Generate 10 highly engaging video ideas for my Premium Food Documentary channel. Focus on ancient food origins, forgotten recipes, historical ingredients, culinary traditions, food-related mysteries, and the connection between food and civilization. For each idea, provide: 1. A highly clickable cinematic title, 2. A 2-sentence curiosity-driven hook, 3. The central food-history mystery, 4. The historical revelation, 5. The visual payoff."[cite: 4]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 0:45 (Mystery Hook): Begin with a striking historical food visual and a surprising question or statement about its forgotten origin[cite: 4]।
+* 0:45 - 3:00 (Ancient Origin): Introduce where, when, and how the food or ingredient first appeared[cite: 4]।
+* 3:00 - 6:00 (Historical Context): Explain the civilization, people, culture, trade, or historical circumstances surrounding it[cite: 4]।
+* 6:00 - 9:00 (Transformation): Show how preparation, ingredients, recipes, or cultural meaning changed over time[cite: 4]।
+* 9:00 - 12:00 (Forgotten Era): Explore how the original method or tradition disappeared, changed, or became misunderstood[cite: 4]।
+* 12:00 - 15:00 (Modern Connection): Connect the historical food to its modern form and reveal what changed or survived[cite: 4]।
+* 15:00 - 16:00 (Final Reflection): End with a memorable historical observation about food, culture, and civilization[cite: 4]।
+* Master Script Prompt: 
+  "You are a Master Food History Documentary Scriptwriter. Write a 16-minute cinematic documentary script for the title '[Insert Title]'. 
+  Tone: Slow, mysterious, educational, cinematic, authoritative, and curiosity-driven. 
+  Voiceover: Deep male documentary voice, approximately 40–50 years old, with deliberate pacing and meaningful pauses. 
+  Structure it following this framework: [0-45s: Mystery hook] [45s-3m: Ancient origin] [3-6m: Historical context] [6-9m: Transformation] [9-12m: Forgotten era] [12-15m: Modern connection] [15-16m: Final reflection]. 
+  Use historically grounded narration. Avoid modern slang, casual expressions, exaggerated claims, and unnecessary repetition. 
+  Include precise visual and audio cues in brackets for the editor, such as: [Slow push-in on ancient bread | Warm candlelight], [Static portrait of historical baker | Ambient: stone bakery]. 
+  Every scene should feel like a museum-quality cinematic food-history documentary with Renaissance oil-painting realism, deep chiaroscuro, warm candlelight, and historically appropriate environments."[cite: 4]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: Thumbnail should combine a recognizable food with a mysterious historical character or environment[cite: 4]। The contrast between familiar food and ancient civilization creates immediate curiosity[cite: 4]। Use one dominant food object, one historical character, and a dark cinematic environment[cite: 4]। Warm candlelight against deep shadows should create premium documentary aesthetics[cite: 4]।
+* Text Strategy: Text should be minimal. If used, keep it to 2–4 powerful words such as "FORGOTTEN FOOD", "2,000 YEARS OLD", "THE ORIGINAL RECIPE", or "FOOD OF EMPIRES"[cite: 4]।
+* Master Thumbnail Prompt: 
+  "Hyper-realistic museum-quality Renaissance oil painting, cinematic historical food documentary aesthetic, [Insert historical character] holding or preparing [Insert food], ancient rustic interior, antique wooden table covered with historically appropriate ingredients and utensils, warm candlelight illuminating the face and food, deep chiaroscuro shadows, volumetric atmospheric fog, extremely detailed skin and fabric textures, rich realistic food texture, mysterious and educational mood, premium museum artwork quality, 8k detail, strong visual hierarchy, cinematic composition, negative space for minimal title text, no modern objects, no cartoon, no anime, no 3D render, no watermark --ar 16:9"[cite: 4]

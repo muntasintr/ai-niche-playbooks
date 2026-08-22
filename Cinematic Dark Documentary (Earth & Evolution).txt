@@ -1,0 +1,35 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Cinematic Earth & Evolution (Dark Docu)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই niche-এর core audience হলো prehistoric Earth, evolution, ancient creatures, extreme nature, predator behavior, geological events, deep ocean mysteries এবং dark cinematic documentary content পছন্দ করা viewers[cite: 3]।
+* ভাইরাল হওয়ার মূল কারণ: Fear + scale + mystery + survival[cite: 3]। Tiny human subjects versus enormous prehistoric creatures, hostile environments, unexplored depths, extinction events, and ancient predators create immediate visual curiosity and tension[cite: 3]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি video একটি prehistoric creature, ancient ecosystem, evolutionary mystery, catastrophic geological event, deep-ocean mystery, অথবা extreme survival scenario কেন্দ্র করে তৈরি হবে[cite: 3]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: Titles should create fear, mystery, scale, and curiosity[cite: 3]। Focus on questions, impossible encounters, forgotten creatures, hostile environments, and Earth's most extreme moments[cite: 3]।
+* Title Patterns:
+  * "What Ruled Earth Before the Dinosaurs?"[cite: 3]
+  * "The Monster That Lived Beneath the Ancient Ocean"[cite: 3]
+  * "How Earth Looked 400 Million Years Ago"[cite: 3]
+* Master Idea Prompt: 
+  "You are an Elite YouTube Prehistoric Earth Documentary Strategist. Generate 10 highly engaging video ideas for my Cinematic Earth & Evolution channel. Focus on prehistoric creatures, ancient ecosystems, evolution, extinction events, deep oceans, geological catastrophes, and Earth's most hostile environments. For each idea, provide: 1. A highly clickable cinematic title, 2. A suspense-driven hook, 3. The central prehistoric mystery, 4. The major visual spectacle, 5. The final scientific or evolutionary revelation."[cite: 3]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 0:45 (Atmospheric Hook): Begin with a terrifying or visually immense prehistoric moment. Establish scale, danger, and mystery immediately[cite: 3]।
+* 0:45 - 3:00 (The Ancient World): Establish the geological period, environment, climate, and dominant lifeforms[cite: 3]।
+* 3:00 - 7:00 (The Predator / Mystery): Introduce the main creature, evolutionary adaptation, or environmental threat[cite: 3]।
+* 7:00 - 11:00 (The Struggle): Show predator-prey dynamics, environmental pressure, competition, or survival challenges[cite: 3]।
+* 11:00 - 14:00 (Catastrophe / Evolution): Reveal the major environmental or evolutionary turning point[cite: 3]।
+* 14:00 - 16:00 (Final Reflection): End with extinction, adaptation, evolution, or the transformation of Earth itself[cite: 3]।
+* Master Script Prompt: 
+  "You are a Master Cinematic Earth & Evolution Documentary Scriptwriter. Write a 16-minute cinematic documentary script for the title '[Insert Title]'. Tone: Grave, mysterious, philosophical, suspenseful, epic, and scientifically grounded. Voiceover: Extremely deep, heavy, authoritative documentary narration with slow pacing and dramatic pauses. Structure it following this framework: [0-45s: Atmospheric hook] [45s-3m: Ancient world] [3-7m: Predator / mystery] [7-11m: Struggle] [11-14m: Catastrophe / evolution] [14-16m: Final reflection]. Use scientifically grounded narration while maintaining a dark cinematic storytelling style."[cite: 3]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: Thumbnail should instantly communicate prehistoric danger, enormous scale, mystery, and hostile nature[cite: 3]। Use one dominant creature or environmental threat with a tiny human, ship, or landscape element for scale[cite: 3]। Keep composition simple but dramatic[cite: 3]।
+* Master Thumbnail Prompt: 
+  "Hyper-realistic cinematic prehistoric Earth documentary thumbnail, enormous ancient apex predator emerging from a dark primordial ocean, tiny human expedition vessel visible in the foreground for extreme scale comparison, massive storm clouds, violent waves, deep atmospheric fog, glowing predator eyes, dark blue-black water, dramatic chiaroscuro lighting, photorealistic creature anatomy, cinematic Hollywood documentary quality, immense environmental scale, terrifying but scientifically grounded prehistoric atmosphere, ultra-detailed textures, heavy contrast, volumetric lighting, mysterious composition, premium YouTube documentary thumbnail aesthetic, no text, no watermark, no cartoon, no anime, no friendly expression --ar 16:9"[cite: 3]

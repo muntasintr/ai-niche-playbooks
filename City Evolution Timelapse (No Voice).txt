@@ -1,0 +1,43 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Historical City Evolution Timelapse (Fixed-Camera)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: History, architecture, urban development, geography, civilization, এবং futuristic cities নিয়ে আগ্রহী দর্শকরাই এই নিশের মূল অডিয়েন্স[cite: 5]। দর্শকরা একটি নির্দিষ্ট location-এর শত শত বা হাজার বছরের visual transformation দেখতে আগ্রহী[cite: 5]।
+* ভাইরাল হওয়ার মূল কারণ: Time compression + visual transformation + curiosity[cite: 5]। একই fixed-camera perspective থেকে wilderness → settlement → medieval city → industrial city → modern metropolis → future megacity transformation দর্শকের চোখে instantly satisfying visual progression তৈরি করে[cite: 5]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি video একটি নির্দিষ্ট historical city, capital, landmark area, ancient settlement, অথবা imagined future city কেন্দ্র করে তৈরি হবে[cite: 5]। Fixed-camera perspective পুরো channel-এর core visual identity থাকবে[cite: 5]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: Titles should emphasize enormous time spans, dramatic transformation, recognizable locations, and future possibilities[cite: 5]। Title দেখেই viewer-এর মনে প্রশ্ন তৈরি হতে হবে—এই জায়গাটি কীভাবে এতটা বদলে গেল[cite: 5]?
+* Title Patterns:
+  * "London Through 2,000 Years of History"[cite: 5]
+  * "How New York Changed Over 400 Years"[cite: 5]
+  * "From Wilderness to Megacity — 1,000 Years"[cite: 5]
+  * "What This City Could Look Like in 2100"[cite: 5]
+* Master Idea Prompt: 
+  "You are an Elite YouTube History and Urban Evolution Strategist. Generate 10 highly engaging video ideas for my Historical City Evolution Timelapse channel. Focus on famous cities, ancient settlements, historical capitals, iconic landmarks, dramatic urban transformations, and plausible future development. For each idea, provide: 1. A highly clickable title, 2. A curiosity-driven hook, 3. The historical time span, 4. The major architectural and urban transformations, 5. The final visual payoff."[cite: 5]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 0:30 (Visual Hook): Begin with the most dramatic transformation or final city state, then reveal how far back the timeline begins[cite: 5]।
+* 0:30 - 2:00 (Origins): Introduce the original landscape, settlement, geography, and earliest civilization[cite: 5]।
+* 2:00 - 5:00 (Historical Growth): Show population growth, defensive structures, roads, religious buildings, markets, and expanding settlements[cite: 5]।
+* 5:00 - 8:00 (Industrial Transformation): Introduce factories, railways, bridges, smoke, industrial infrastructure, and rapid urban expansion[cite: 5]।
+* 8:00 - 11:00 (Modern City): Show skyscrapers, highways, modern transportation, dense urban infrastructure, and recognizable landmarks[cite: 5]।
+* 11:00 - 14:00 (Future Evolution): Transition into a plausible future city with advanced architecture, futuristic transportation, vertical development, and changing urban infrastructure[cite: 5]।
+* 14:00 - 15:00 (Final Reflection): End with the completed future landscape and reflect on how centuries of human civilization transformed the original wilderness[cite: 5]।
+* Master Script Prompt: 
+  "You are a Master Historical City Evolution Documentary Scriptwriter. Write a 15-minute documentary script for the title '[Insert Title]'. 
+  Tone: Serious, solemn, epic, cinematic, informative, and majestic. 
+  Structure it following this framework: [0-30s: Visual hook] [30s-2m: Origins] [2-5m: Historical growth] [5-8m: Industrial transformation] [8-11m: Modern city] [11-14m: Future evolution] [14-15m: Final reflection]. 
+  Narration should describe the passage of centuries, major architectural changes, population growth, technological development, historical events, and urban transformation. 
+  Include precise visual and audio cues in brackets for the editor, such as: [Locked wide aerial view | Year: 1200 | Ambient: medieval marketplace], [Same locked perspective | Modern skyline | Ambient: city traffic]. 
+  Maintain absolute camera continuity throughout the entire script. Do not introduce camera pans, zooms, rotations, or reframing."[cite: 5]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: Thumbnail should instantly communicate massive historical transformation[cite: 5]। Show the same location divided visually between ancient and modern eras, or use a dramatic before-and-after composition showing wilderness evolving into a massive modern city[cite: 5]। Keep the composition clean[cite: 5]। One recognizable landmark or location, strong contrast between eras, large architectural transformation, and minimal text[cite: 5]।
+* Text Strategy: Text Examples: "2,000 YEARS", "THEN → NOW", "FROM NOTHING", "THE CITY EVOLVED"[cite: 5]।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Ultra-realistic cinematic historical city evolution thumbnail, same exact geographic location shown as a dramatic visual transformation from ancient wilderness and primitive settlement into a massive modern metropolis, recognizable historical architecture transitioning into modern skyscrapers, strong before-and-after composition, epic scale, atmospheric depth, cinematic lighting, highly detailed architecture, realistic historical environments, dramatic contrast between ancient and modern civilization, clean visual hierarchy, large negative space for bold title text, premium documentary thumbnail aesthetic, no cartoon, no anime, no distorted architecture, no watermark, 8k detail, --ar 16:9"[cite: 5]

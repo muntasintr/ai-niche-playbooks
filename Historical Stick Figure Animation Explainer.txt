@@ -1,0 +1,34 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Historical Stick Figure Animation Explainer
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: প্রাপ্তবয়স্ক কৌতূহলী দর্শক এবং ইতিহাসপ্রেমী, যারা 'শাওয়ার থটস' (Shower thoughts) বা দৈনন্দিন জীবনের সাধারণ প্রশ্নের বৈজ্ঞানিক ও ঐতিহাসিক উত্তর জানতে পছন্দ করেন[cite: 9]।
+* ভাইরাল হওয়ার মূল কারণ: এদের 'সিক্রেট সস' হলো জটিল অ্যানথ্রোপলজি বা বিবর্তনীয় ইতিহাসকে অত্যন্ত সহজ, হিউমারাস এবং মিনিমালিস্টিক স্টিক-ফিগার অ্যানিমেশনের (২ডি) মাধ্যমে উপস্থাপন করা[cite: 9]। ভিজ্যুয়াল সিম্পল হওয়ায় দর্শকের ব্রেইনে চাপ পড়ে না (Low cognitive load), কিন্তু ইনফরমেশন এবং স্টোরিটেলিং হয় খুবই হাই-কোয়ালিটি ও এনগেজিং[cite: 9]। আধুনিক সাধারণ জীবনের ছোটখাটো বিরক্তি বা সমস্যাকে (যেমন- ঘুম না আসা, বৃষ্টি) আদিম যুগের জীবন-মরণের সংকটের সাথে তুলনা করে দর্শককে হুক করা হয়[cite: 9]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ভিডিওর দৈর্ঘ্য সাধারণত ৬ থেকে ১১ মিনিটের মধ্যে হয়[cite: 9]। টু-ডি অ্যানিমেশন এবং গভীর রিসার্চের কারণে আপলোড ফ্রিকোয়েন্সি সাধারণত মাসে ১-২টি। এদের মূল ফোকাস থাকে হাই-রিটেনশন এবং এভারগ্রিন (Evergreen) কন্টেন্ট তৈরির দিকে[cite: 9]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলগুলো সবসময় একটি সরাসরি কৌতূহলোদ্দীপক প্রশ্ন হয়, যা মানুষের আদিম জীবনযাত্রা এবং বর্তমান জীবনের সাধারণ অভ্যাসের মধ্যে যোগসূত্র স্থাপন করে[cite: 9]। টাইটেলে "Ancient Humans", "Early Humans" বা "Do Animals Know..." এর মতো শব্দগুলো ব্যবহার করা হয়[cite: 9]।
+* Title Patterns:
+  * "What Did Ancient Humans Do When They Couldn't Sleep?"[cite: 9]
+  * "How Did Ancient Humans Survive Without Clean Water?"[cite: 9]
+  * "When Did Humans Actually Start Cooking Food?"[cite: 9]
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my 'Historical Stickfigure Explainer' channel. Follow the exact title psychology of: 'What Did Ancient Humans Do When It Rained All Week?', 'When Did Ancient Humans Start Drinking Alcohol?', and 'Why Are We the Only Human Species Left?'. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence psychological hook contrasting modern convenience with ancient survival, 3. The core conflict/historical focus."[cite: 9]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:00 (Hook & Modern Contrast): বর্তমান জীবনের কোনো সাধারণ সমস্যার (যেমন- বৃষ্টি, ঘুম না আসা) সাথে আদিম যুগের জীবন-মরণের ভয়াবহতার সরাসরি তুলনা[cite: 9]।
+* 1:00 - 3:30 (The Survival Problem): কেন আদিম যুগে এই সাধারণ বিষয়টি একটি ভয়াবহ সংকট (Crisis) ছিল তার লজিক্যাল ব্যাখ্যা (যেমন- ঠান্ডা, বন্যা, শিকারী প্রাণী)[cite: 9]।
+* 3:30 - 6:30 (The Historical Solution): প্রত্নতাত্ত্বিক প্রমাণসহ (Archaeological evidence) তারা কীভাবে এই সমস্যার সমাধান করতো তার বিস্তারিত ব্যাখ্যা (যেমন- আগুনের ব্যবহার, সুতো বানানো)[cite: 9]।
+* 6:30 - 8:30 (The Unexpected Twist/Deep Dive): এই সারভাইভাল টেকনিক কীভাবে মানুষের কালচার বা আর্ট তৈরি করলো তার একটি অপ্রত্যাশিত বাঁক[cite: 9]।
+* 8:30 - End (Conclusion/Legacy): বর্তমান জীবনের সাথে মিল রেখে একটি চমৎকার দার্শনিক সমাপ্তি[cite: 9]।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write an 8-minute script for the title '[Insert Title]'. Tone: Fast-paced enthusiastic documentary male, dry wit, accessible anthropology. Structure it perfectly following this framework: 1. Hook & Modern Contrast (1 min), 2. The Survival Problem (2.5 mins), 3. The Historical Solution with Archaeological Evidence (3 mins), 4. The Unexpected Cultural Twist (2 mins), 5. Legacy Conclusion (1 min). Include precise visual cues in brackets [e.g., Static wide shot, stick figure shivering in the rain, flat 2D art] for the animator. Do not use generic AI language like 'In today's video'."[cite: 9]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: থাম্বনেইলগুলো অত্যন্ত ক্লিন এবং কিউরিসিটি তৈরি করে[cite: 9]। ব্যাকগ্রাউন্ডে একটি বিপদ বা পরিস্থিতি (যেমন- গুহা, বৃষ্টি, বাঘ) থাকে এবং সামনে এক্সপ্রেসিভ চেহারার স্টিক ফিগার থাকে[cite: 9]। টেক্সট হিসেবে মাত্র ১-৩টি খুব স্ট্রং এবং ইমোশনাল শব্দ ব্যবহার করা হয় (যেমন- "WARM ALL DAY?", "I WILL DIE")[cite: 9]।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "2D webcomic cartoon style YouTube thumbnail, flat colors, thick black outlines. Subject: [e.g., A simple stick figure man shivering in prehistoric animal furs looking terrified at a massive shadowy predator]. Environment: [e.g., A dark cave entrance during a heavy rainstorm]. Composition: Rule of thirds, highly expressive simple cartoon face, humorous educational illustration style, clean negative space on the top or right side for bold text. High contrast, clear vector-like art, 8k, --ar 16:9"[cite: 9]

@@ -1,0 +1,42 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Meditative Cinematic History
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই চ্যানেলের মূল দর্শক ইতিহাস, সাম্রাজ্য, যুদ্ধ, প্রাচীন সভ্যতা এবং মানব সভ্যতার উত্থান-পতন নিয়ে cinematic documentary content পছন্দ করে[cite: 10]। দর্শকদের মধ্যে history enthusiasts, documentary viewers এবং যারা ধীর, atmospheric storytelling উপভোগ করে তারা প্রধান[cite: 10]।
+* ভাইরাল হওয়ার মূল কারণ: বিশাল scale, historical mystery, human tragedy এবং "rise and fall" psychology[cite: 10]। দর্শকরা দেখতে চায় কীভাবে একসময়ের অপ্রতিরোধ্য empire ধীরে ধীরে দুর্বল হয়ে পড়ে এবং শেষ পর্যন্ত ইতিহাসের পাতায় হারিয়ে যায়[cite: 10]। Cinematic visuals + philosophical narration + unanswered historical questions curiosity এবং watch time বাড়াতে পারে[cite: 10]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি ভিডিও একটি নির্দিষ্ট empire, ruler, battle, civilization, betrayal, conquest অথবা historical collapse কেন্দ্র করে তৈরি হবে[cite: 10]। গল্পের মধ্যে historical facts, human decisions, military strategy এবং philosophical reflection একসঙ্গে থাকবে[cite: 10]। ভিডিওর pacing ধীর হলেও প্রতিটি কয়েক মিনিটে নতুন historical revelation বা narrative escalation থাকতে হবে[cite: 10]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: Title-এ curiosity, scale, mystery এবং inevitable downfall ব্যবহার করা হবে[cite: 10]। সরাসরি "History of..." ধরনের generic title এড়িয়ে এমন framing ব্যবহার করা হবে যাতে দর্শক জানতে চায় কীভাবে একটি powerful civilization ধ্বংস হলো[cite: 10]।
+* Title Patterns:
+  * "The Empire That Ruled Everything — Then Vanished"[cite: 10]
+  * "How Rome's Greatest Enemy Disappeared"[cite: 10]
+  * "The Last Days of an Empire That Seemed Invincible"[cite: 10]
+  * "Why This Ancient Civilization Was Erased From History"[cite: 10]
+* Master Idea Prompt: 
+  "You are an Elite YouTube History Strategist. Generate 10 highly engaging video ideas for my Meditative Cinematic History channel. Focus on forgotten empires, ancient rivalries, historical tragedies, legendary battles, political betrayals, mysterious disappearances, and the rise and fall of civilizations. For each idea, provide: 1. A highly clickable cinematic title, 2. A 2-sentence psychological hook, 3. The central historical conflict, 4. The historical mystery or revelation, 5. The emotional reason viewers should continue watching."[cite: 10]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:00 (Cinematic Hook): Begin at the most visually powerful or tragic moment. Introduce the central philosophical question about power, mortality, conquest, or collapse[cite: 10]।
+* 1:00 - 4:00 (The Golden Age): Establish the empire, ruler, civilization, military strength, wealth, territory, and historical significance[cite: 10]।
+* 4:00 - 8:00 (The Rise of Conflict): Introduce rival powers, political tension, military threats, internal divisions, ambition, betrayal, or strategic mistakes[cite: 10]।
+* 8:00 - 12:00 (The Turning Point): Present the battle, political decision, betrayal, invasion, disaster, or event that fundamentally changed the empire's future[cite: 10]।
+* 12:00 - 16:00 (The Collapse): Slowly reveal the empire's decline through defeat, internal weakness, occupation, destruction, exile, or death[cite: 10]।
+* 16:00 - 18:00 (Oblivion & Reflection): End with the ruins, surviving artifacts, historical legacy, and a philosophical reflection about how even the greatest powers eventually disappear[cite: 10]।
+* Master Script Prompt: 
+  "You are a Master Historical Documentary Scriptwriter. Write an 18-minute script for the title '[Insert Title]'. 
+  Tone: Deep, meditative, authoritative, stoic, grand, and slightly melancholic. 
+  Voiceover: Deep documentary male voice with deliberate pacing and meaningful pauses. 
+  Structure it following this framework: [0-1m: Cinematic hook] [1-4m: Golden age and establishment] [4-8m: Rise of conflict] [8-12m: Historical turning point] [12-16m: Collapse] [16-18m: Oblivion, legacy, and philosophical reflection]. 
+  Use historically grounded narration. Avoid modern slang, exaggerated expressions, and unnecessary repetition. 
+  Include precise visual and audio cues in brackets for the editor, such as: [Wide aerial shot over ancient city | Volumetric sunlight | Ambient: distant marketplace], [Slow push-in on exhausted soldier | SFX: wind and armor movement], [Static shot of ancient map | Low cinematic drone]."[cite: 10]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করবে: Thumbnail should communicate scale, danger, mystery, and historical tragedy within one glance[cite: 10]। Use one dominant historical subject rather than cluttering the frame[cite: 10]। A ruined emperor, burning ancient city, defeated legion, enormous army, or mysterious ancient monument can create immediate curiosity[cite: 10]। Use strong contrast between fire, dust, shadows, golden sunlight, and dark atmospheric backgrounds[cite: 10]।
+* Text Strategy: Text should be minimal. If used, keep it to 2–4 powerful words such as "THE LAST DAYS", "EMPIRE FALLS", "THE FINAL BATTLE", or "ERASED FROM HISTORY"[cite: 10]।
+* Master Thumbnail Prompt: 
+  "Hyper-realistic cinematic historical recreation, high-end Hollywood epic, subject: [Insert historical subject]. Environment: [Insert ancient battlefield / ruined empire / royal chamber / ancient city]. Composition: one dominant focal subject, immense cinematic scale, historically accurate clothing and architecture, dramatic facial expression, atmospheric dust and fog, volumetric golden-hour lighting, deep chiaroscuro contrast, subtle fire and smoke, realistic textures, photorealistic skin, Unreal Engine 5 quality, 8k detail, cinematic depth of field, strong visual hierarchy, negative space for minimal title text, no modern elements, no watermark --ar 16:9"[cite: 10]
