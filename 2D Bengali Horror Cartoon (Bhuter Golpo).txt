@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: 2D Bengali Horror Cartoon (Bhuter Golpo)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: বাংলা ভাষাভাষী দর্শক, বিশেষ করে যারা লোককথা, ঠাকুরমার ঝুলি বা গ্রামের পুরনো ক্লাসিক ভূতের গল্প (নস্টালজিয়া) পছন্দ করে। শিশু থেকে শুরু করে প্রাপ্তবয়স্ক—সবাই এই ধরনের সাসপেন্স ও রহস্যমূলক গল্প উপভোগ করে।
+* ভাইরাল হওয়ার মূল কারণ: গল্পের মধ্যে থাকা গ্রামীণ জীবনের পরিচিত দৃশ্য (যেমন: গরুর গাড়ি, হ্যারিকেন, মোড়ল, শ্মশান) এবং তার সাথে অতীত অন্যায় বা অভিশাপের মিশ্রণ। ড্রোন বা মোবাইলের মতো আধুনিক প্রযুক্তি এড়িয়ে ১০০% গ্রামীণ ফোকলোর ধরে রাখা। ভূতের ভয়ংকর হাসির অডিও এবং ভয়েস অ্যাক্টিং দর্শকদের স্ক্রিনের সাথে আটকে রাখে।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ১৫-২৫ মিনিটের লং-ফর্ম স্টোরিটেলিং। ভিডিওর দৈর্ঘ্য বেশি হওয়ায় ওয়াচ-টাইম অনেক বেশি আসে। ডিটেইলড অ্যানিমেশন ও স্টোরিলাইন মেইনটেইন করে সপ্তাহে অন্তত ১-২টি ভিডিও আপলোড করা হয়।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলে এমন শব্দ ব্যবহার করা হয় যা অজানা আতঙ্ক, বৃষ্টি বা অভিশাপের ইঙ্গিত দেয় (যেমন: কালবৈশাখীর রাত, শ্মশানের পিশাচ, অভিশপ্ত নিশি বাংলো)। টাইটেলগুলো সাধারণত সাসপেন্স তৈরি করে এবং ক্লিকেবল হয়।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Bengali 2D Rural Horror Cartoon channel. Follow the exact title psychology of: 'অভিশপ্ত নিশি বাংলো | Bhuter Golpo', 'শ্মশানের কাল পিশাচ | Bangla Cartoon', and 'বৃষ্টির রাতে গরুর গাড়ি | Bengali Horror Story'. For each idea, provide: 1. A Clickable Title (in Bengali and English), 2. A 2-sentence psychological rural folklore hook, 3. The core conflict involving an old curse or injustice."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 2:00 (Hook): বৃষ্টি বা ঝড়ের রাতের গ্রামীণ পরিবেশ তৈরি, যেখানে প্রধান চরিত্র কোনো কারণে আটকে পড়েছে বা যাত্রা শুরু করেছে।
+* 2:00 - 8:00 (Build-up): অচেনা মানুষ বা অদ্ভুত পরিস্থিতির সম্মুখীন হওয়া (যেমন: গোরস্থানে দাঁড়িয়ে থাকা লোক, চায়ে রক্ত)।
+* 8:00 - 15:00 (Conflict & Backstory): ভূতের পরিচয় এবং তার ওপর হওয়া অতীত অন্যায়ের কাহিনী (ফ্ল্যাশব্যাকে জমিদার বা মোড়লের অত্যাচার)।
+* 15:00 - End (Climax): তাবিজ কাটা, আত্মাকে মুক্তি দেওয়া অথবা ভয়ংকর রূপ প্রকাশ করে পাপীকে শাস্তি দেওয়া।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write a [Insert Length]-minute script for the title '[Insert Title]'. Tone: Deeply suspenseful, traditional rural Bengali folklore, dark and eerie. Structure it perfectly following this framework: 0:00-2:00 Atmospheric rainy night intro, 2:00-8:00 Eerie encounter with a mysterious figure, 8:00-15:00 Revelation of past injustice/curse, 15:00-End Terrifying climax and freeing of the soul. Include precise visual and audio cues in brackets [e.g., slow zoom on the skeleton's glowing red eyes under the banyan tree | SFX: sudden lightning crash and echoing creepy laugh] for the editor. STRICTLY NO modern technology (no drones, cars, or phones)."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: রাতের অন্ধকার, বৃষ্টি বা কুয়াশাচ্ছন্ন পরিবেশে একটি মাত্র আলোর উৎস (হ্যারিকেন বা কুপির আলো)। একদিকে গ্রামের সাধারণ মানুষের ভয়ার্ত মুখ, অন্যদিকে চাদর মোড়ানো বা পচে যাওয়া মুখের কোনো অদ্ভুত অবয়ব। হাই-কন্ট্রাস্ট লাইট এবং গাঢ় নীল/কালো ব্যাকগ্রাউন্ড দর্শকদের ক্লিক করতে বাধ্য করে।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "2D flat vector animation style, traditional Bengali rural horror cartoon. Subject: A terrified rural Bengali man in a lungi holding a dim hurricane lantern, staring at a mysterious tall figure in a dark shawl with glowing red eyes. Environment: A muddy village road beside an old graveyard during a heavy thunderstorm, dark blue and black color palette. Composition: Dramatic low-angle lighting from the lantern, deep shadows, high contrast, negative space at the top right for bold text. 8k, --ar 16:9"

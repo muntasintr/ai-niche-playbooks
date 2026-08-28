@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: 3D Anatomy & Food Science
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই চ্যানেলের মূল অডিয়েন্স হলো স্বাস্থ্য সচেতন মানুষ, ফিটনেস লাভার এবং কৌতূহলী দর্শক[cite: 12]। আমরা প্রতিদিন খাবার খাই, কিন্তু পেটের ভেতরে খাবারটির আসলে কী অবস্থা হয়—তা দেখার তীব্র কৌতূহল থেকে মানুষ এই ভিডিওগুলো দেখে[cite: 12]।
+* ভাইরাল হওয়ার মূল কারণ: "Curiosity Satisfaction" এবং "Oddly Satisfying Visuals"[cite: 12]। হাই-কোয়ালিটি 3D রেন্ডারিং, অর্গানের ভেতরের ক্লিন টেক্সচার এবং এসিডে খাবার গলে যাওয়ার দৃশ্য মানুষকে হিপনোটাইজ করে[cite: 12]। সাথে এর সাউন্ড ডিজাইন (squishy, liquid sounds) এক ধরনের বায়োলজিক্যাল ASMR ফিল দেয়[cite: 12]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: শর্টস ফরম্যাট (৬০ সেকেন্ডের নিচে)[cite: 12]। প্রতিটি ভিডিওতে নির্দিষ্ট একটি খাবার বা পানীয় টার্গেট করা হয় (যেমন- ডিম, ওটস, চিয়া সিড, গরম পানি)[cite: 12]। টাইটেলগুলো সাধারণত প্রশ্নবোধক বা ফলাফল-নির্ভর হয়[cite: 12]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলগুলো সাধারণত "What happens when you..." বা "Eating [Food] on an Empty Stomach" স্টাইলে লেখা হয়, যা সরাসরি দর্শকের স্বাস্থ্য বা দৈনন্দিন অভ্যাসের সাথে যুক্ত[cite: 12]।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Health & Science Strategist. Generate 10 highly engaging YouTube Shorts ideas for my [3D Medical Food Science] channel. Follow the exact title psychology of: ['What Happens When You Eat Oats?', 'Boiled Egg First Thing in the Morning', 'Drinking Cold Water on an Empty Stomach']. For each idea, provide: 1. A Clickable Title, 2. A 1-sentence hook, 3. The core biological transformation to show visually."[cite: 12]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00-0:05 (The Ingestion): আপনি কী খাচ্ছেন তা বলে হুক করা এবং খাবারটি গলার নালী দিয়ে পাকস্থলীতে নামার দৃশ্য[cite: 12]।
+* 0:05-0:30 (The Chemical Attack): স্টমাক এসিড এবং এনজাইম কীভাবে খাবারটিকে ভেঙে টুকরো টুকরো করে তার সায়েন্টিফিক বর্ণনা[cite: 12]।
+* 0:30-0:45 (The Churning): পাকস্থলীর দেয়ালের সংকোচন (contractions) এবং লিকুইড মিশ্রণ তৈরি হওয়া[cite: 12]।
+* 0:45-0:60 (Absorption): ক্ষুদ্রান্ত্রে (Small intestine) প্রবেশ এবং পুষ্টি শোষণের (glowing nutrients) দৃশ্য[cite: 12]।
+* Master Script Prompt: 
+  "You are a Master Medical Scriptwriter. Write a [1]-minute short script for the title '[Insert Title]'. Tone: [Clinical, highly educational, fascinating]. Structure it perfectly following this framework: [0-5s The Hook & swallowing, 5-30s Arrival in stomach & acid breakdown, 30-45s Muscle contractions, 45-60s Intestinal absorption]. Use accurate biological terms. Include precise visual and audio cues in brackets [e.g., Macro shot inside stomach, acid dissolving the food | SFX: wet squishing, acid sizzling]. Do not use generic AI intros."[cite: 12]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: এই চ্যানেলের থাম্বনেইলগুলোর বিশেষত্ব হলো—এগুলো একটু 'গ্রস' (Gross) কিন্তু চরম ফ্যাসিনেটিং[cite: 12]। পাকস্থলী বা অন্ত্রের ভেতরের একটি ম্যাক্রো শট দেখানো হয়, যেখানে খাবারটি অর্ধেক হজম হওয়া অবস্থায় আছে[cite: 12]। এর উপর হলুদ বা সাদা রঙে বোল্ড টেক্সট (যেমন- OATS, EMPTY STOMACH) থাকে যা খুব দ্রুত নজর কাড়ে[cite: 12]।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Clean and stylized 3D medical animation render, inside a human stomach. Subject: [Insert specific food, e.g., partially dissolved boiled eggs mixed with glowing golden stomach acid]. Environment: [Sterile, translucent, soft pink internal stomach walls, NO gore or blood]. Composition: Macro close-up, dramatic clinical lighting. Highly detailed, 8k resolution, photorealistic, --ar 16:9"[cite: 12]

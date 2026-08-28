@@ -1,0 +1,30 @@
+🎯 **চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)**
+নিশ: Cinematic Prehistory
+
+**১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)**
+
+* **কোর নিশ এবং টার্গেট অডিয়েন্স:** এই নিশের প্রধান দর্শক হলো ইতিহাস, বিজ্ঞান এবং প্রকৃতিপ্রেমীরা, যারা মুভির মতো থ্রিলিং স্টাইলে পৃথিবীর অতীত ইতিহাস দেখতে পছন্দ করে।
+* **ভাইরাল হওয়ার মূল কারণ:** এদের সিক্রেট সস হলো "Storytelling of Scale & Terror"। তারা ইতিহাসকে বোরিং ক্লাসের মতো না বলে একটি সাই-ফাই বা হরর মুভির মতো উপস্থাপন করে। বিশাল সাইজের তুলনা (যেমন: "স্কুল বাসের চেয়ে বড় সাপ"), মহাজাগতিক ধ্বংসযজ্ঞ, এবং হাইপার-রিয়ালিস্টিক ভিজ্যুয়াল দর্শককে স্ক্রিনে আটকে রাখে। ভয়েসওভারের গাম্ভীর্য একটি আলাদা ট্রাস্ট এবং সাসপেন্স তৈরি করে।
+* **কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি:** এই চ্যানেলগুলো সাধারণত লং-ফর্ম কন্টেন্ট (১০-২০ মিনিট বা তার বেশি) তৈরি করে। এদের ভিডিও ফ্রিকোয়েন্সি কম হলেও প্রোডাকশন কোয়ালিটি থাকে টিভির ডকুমেন্টারির মতো।
+
+**২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)**
+
+* **টাইটেল সাইকোলজি:** এদের টাইটেলগুলো খুবই এপিক এবং কৌতূহল উদ্দীপক। তারা "The Day the Earth Died", "When X Ruled the Earth", বা "The Most Terrifying Predator" টাইপের সাইকোলজি ব্যবহার করে।
+* **Master Idea Prompt:**
+"You are an Elite YouTube Strategist. Generate 10 highly engaging documentary video ideas for my Prehistoric & Extinct Megafauna channel. Follow the exact title psychology of: ['The 200 Million Year Old Killer', 'When Giant Snakes Ruled the Earth', 'The Most Nightmare-Inducing Predator']. For each idea, provide: 1. A Clickable Epic Title, 2. A 2-sentence psychological hook describing a catastrophic or terrifying scenario, 3. The core evolutionary conflict."
+
+**৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)**
+
+* **0:00 - 1:00 (Hook):** ভয়াবহ কোনো দৃশ্য বা ধ্বংসযজ্ঞ দিয়ে শুরু (যেমন: গ্রহাণু আঘাত হানার ঠিক পরের মুহূর্ত)।
+* **1:00 - 3:00 (Context):** সেই সময়কার পৃথিবীর পরিবেশ এবং আবহাওয়ার বর্ণনা।
+* **3:00 - 8:00 (The Rise):** মূল প্রাণীর আগমন, তার সাইজ, শিকার করার কৌশল এবং তার বেঁচে থাকার অদ্ভুত ক্ষমতা।
+* **8:00 - 10:00 (The Climax):** একটি বড় যুদ্ধ (Predator vs Prey) বা প্রাকৃতিক বিপর্যয়।
+* **10:00 - End (Legacy):** প্রাণীটি কীভাবে বিলুপ্ত হলো এবং বিবর্তনের ধারায় কী রেখে গেল।
+* **Master Script Prompt:**
+"You are a Master Documentary Scriptwriter like David Attenborough. Write a 15-minute script for the title '[Insert Title]'. Tone: Epic, suspenseful, awe-inspiring, and slightly terrifying. Structure it perfectly following this framework: 1. Catastrophic Hook, 2. Prehistoric Context, 3. Rise of the Apex Creature, 4. Climax/Conflict, 5. Extinction/Legacy. Include precise visual and audio cues in brackets [e.g., slow drone pan over volcanic ash landscape | SFX: heavy cinematic bass boom, distant T-Rex roar] for the editor. Do not use generic AI language like 'In today's video' or 'Welcome back'. Start immediately with the storytelling."
+
+**৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)**
+
+* **থাম্বনেইল কেন কাজ করছে:** তারা থাম্বনেইলে কোনো টেক্সট ব্যবহার করে না। তাদের সিক্রেট হলো "Cinematic Action & High Contrast"। তারা বিশাল আকৃতির বিলুপ্ত প্রাণী (ম্যামথ, টি-রেক্স, সাবারটুথ) কে তাদের শিকার বা বিপদের মুহূর্তে দেখায়। ব্যাকগ্রাউন্ডে আগুন, উল্কাপাত বা বিশাল জঙ্গল থাকে যা একটি মুভি পোস্টারের মতো ফিল দেয়।
+* **Master Thumbnail Prompt (For Midjourney/DALL-E):**
+"Hyper-realistic BBC documentary style YouTube thumbnail, photorealistic 3D render. Subject: [Describe extinct animal, e.g., a massive T-Rex roaring at a smaller raptor / Giant Titanoboa in a swamp]. Environment: [e.g., dense foggy prehistoric jungle / dramatic volcanic eruption in background]. Composition: Cinematic low angle to emphasize massive scale, high contrast, dramatic golden hour lighting, action-packed moment. No text, purely visual storytelling, 8k, highly detailed textures, --ar 16:9"

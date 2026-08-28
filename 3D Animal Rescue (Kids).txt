@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: 3D Animal Rescue (Kids)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই নিশের কোর অডিয়েন্স হলো ছোট বাচ্চা এবং তাদের বাবা-মা, যারা শিক্ষামূলক এবং মজাদার অ্যানিমেশন কন্টেন্ট পছন্দ করেন[cite: 11]।
+* ভাইরাল হওয়ার মূল কারণ: সুন্দর অ্যানিমেশন, প্রাণীদের প্রতি সহানুভূতি এবং কিউট ক্যারেক্টার বাচ্চাদের আকর্ষণ করে[cite: 11]। সম্পূর্ণ শিশু-বান্ধব পরিবেশ এবং টিমওয়ার্কের মাধ্যমে সমস্যা সমাধানের বার্তা অভিভাবকদেরও আশ্বস্ত করে[cite: 11]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: প্রতিটি ভিডিওতে একটি প্রাণী বিপদে পড়বে এবং রেসকিউ টিম হাই-টেক গ্যাজেট ও ভেহিকেলের মাধ্যমে তাকে উদ্ধার করবে[cite: 11]। গল্পটি হবে আনন্দদায়ক এবং শিক্ষামূলক[cite: 11]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলগুলো সাধারণত সহজ এবং উদ্ধার কাজের উপর ফোকাস করা হয়, যা বাচ্চাদের জন্য পজিটিভ মেসেজ দেয়[cite: 11]।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist for Kids Content. Generate 10 highly engaging video ideas for a 3D Animal Rescue channel. Focus on vibrant environments (jungles, seas), high-tech rescue vehicles, teamwork, and cute animals in safe, non-scary danger[cite: 11]. Provide: 1. A fun Title, 2. The animal in need, 3. The rescue method/gadget used."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:00 (Introduction): রেসকিউ টিমের পরিচয় এবং বিপদে পড়া কিউট প্রাণীর দৃশ্য[cite: 11]।
+* 1:00 - 4:00 (The Mission): রেসকিউ টিম তাদের হাই-টেক ভেহিকেল (যেমন- স্পিডবোট, হেলিকপ্টার) নিয়ে রওয়ানা দেয়[cite: 11]।
+* 4:00 - 7:00 (Teamwork & Rescue): কোনো ভায়োলেন্স বা রক্ত ছাড়া, সম্পূর্ণ টিমওয়ার্ক এবং বুদ্ধিমত্তা দিয়ে প্রাণীকে উদ্ধার করা[cite: 11]।
+* 7:00 - 8:00 (Happy Ending): উদ্ধার হওয়া প্রাণী এবং রেসকিউ টিমের আনন্দ, হাসি এবং শিক্ষামূলক বার্তা[cite: 11]।
+* Master Script Prompt: 
+  "Write a short kids' cartoon script for a 3D Animal Rescue show. Tone: Enthusiastic, sweet, and heroic[cite: 11]. Structure: Introduction to danger -> The rescue mission -> High-tech gadget usage -> Happy ending. Automatically replace negative words (kill, die, blood) with positive ones (save, rescue, teamwork)[cite: 11]. Keep it simple, fun, and highly educational[cite: 11]."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: পিক্সার/ডিজনি স্টাইলের থ্রিডি ক্যারেক্টার, যাদের চোখ বড় এবং কিউট, বাচ্চাদের দ্রুত আকর্ষণ করে[cite: 11]। ব্যাকগ্রাউন্ডে উজ্জ্বল জঙ্গল বা সাগর থাকে এবং রেসকিউ ভেহিকেল হাইলাইট করা হয়[cite: 11]।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Vibrant, extremely colorful Pixar/Disney 3D style character animation, a cute expressive animal with large eyes needing help, friendly rescuers with high-tech gadgets and a customized rescue jeep in a brightly-lit tropical jungle, completely child-friendly, cute chibi aesthetics, no scary elements, 8k resolution, highly detailed, --ar 16:9"[cite: 11]

@@ -1,0 +1,35 @@
+🎯 **চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)**
+নিশ: Historical Survival Reconstruction
+
+**১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)**
+
+* **কোর নিশ এবং টার্গেট অডিয়েন্স:** ইতিহাসপ্রেমী এবং সারভাইভাল কন্টেন্ট দর্শক যারা ডার্ক, রিয়ালিস্টিক ডকুমেন্টারি পছন্দ করেন।
+* **ভাইরাল হওয়ার মূল কারণ:** সাধারণ ধারণার বাইরে গিয়ে ইতিহাসকে এআই-এর মাধ্যমে জীবন্ত করা এবং "কীভাবে তারা বেঁচে ছিল?" এই চরম কৌতূহল তৈরি করা।
+* **কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি:** ১০-৩০ মিনিটের লং-ফর্ম ডকুমেন্টারি, ধারাবাহিক এআই ভিজ্যুয়াল এবং অত্যন্ত সাসপেন্সফুল স্টোরিটেলিং।
+
+**২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)**
+
+* **টাইটেল সাইকোলজি:** ভয়, সারভাইভাল এবং ঐতিহাসিক কৌতূহলকে কেন্দ্র করে টাইটেল তৈরি করা। যেমন: "What It Took to Survive...", "Why You Wouldn't Survive..."।
+* **Title Patterns:**
+* "What It Took to Survive England's Dark Ages in 900 AD"
+* "Why You Wouldn't Survive a Week on a Royal Navy Ship"
+* "What It Was Like Inside Pompeii on its Final Day"
+
+
+* **Master Idea Prompt:**
+"You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Historical Survival Reconstruction channel. Follow the exact title psychology of: 'What It Took to Survive England's Dark Ages in 900 AD', 'Why You Wouldn't Survive a Week on a Royal Navy Ship', and 'What It Was Like Inside Pompeii on its Final Day'. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence psychological hook, 3. The core conflict."
+
+**৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)**
+
+* **0:00 - 1:00 (Extreme Hook):** চরম বিপজ্জনক পরিস্থিতি যা আধুনিক লজিকের সম্পূর্ণ বিপরীত।
+* **1:00 - 3:00 (Busting Modern Myths):** আধুনিক সারভাইভাল মিথ বা প্রচলিত ধারণাকে ভুল প্রমাণ করা।
+* **3:00 - 7:00 (The Historical Reality):** আসল সারভাইভাল স্ট্র্যাটেজি বা পেছনের বিজ্ঞান ও ঐতিহাসিক বাস্তবতার ব্যাখ্যা।
+* **7:00 - End (Conclusion):** উপসংহার ও সারমর্ম।
+* **Master Script Prompt:**
+"You are a Master Scriptwriter. Write a [Insert Length]-minute script for the title '[Insert Title]'. Tone: Suspenseful, gritty, documentary-style, and highly educational. Structure it perfectly following this framework: 0:00-1:00 Extreme Hook, 1:00-3:00 Busting modern survival myths, 3:00-7:00 Revealing the historical reality, 7:00-End Conclusion. Include precise visual and audio cues in brackets [e.g., slow push-in on weathered face in lantern light | SFX: creaking wood and howling wind] for the editor. Do not use generic AI language like 'In today's video'."
+
+**৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)**
+
+* **থাম্বনেইল কেন কাজ করছে:** ডার্ক থিম, চোখে ভয় বা কষ্ট ফুটে ওঠা রিয়ালিস্টিক ক্যারেক্টার ফেস, হাই-কন্ট্রাস্ট পরিবেশ এবং পরিস্থিতি বোঝানোর জন্য অত্যন্ত ছোট ও বোল্ড টেক্সট (যেমন: "No Heating", "19.4x")।
+* **Master Thumbnail Prompt (For Midjourney/DALL-E):**
+"Hyper-realistic YouTube thumbnail image, 3D cinematic lighting, dark and gritty tone. Subject: Close-up of a weathered, dirty historical figure looking exhausted or terrified. Environment: Cramped, dimly lit wooden interior with a single warm lantern glowing against cold blue ambient light. Composition: Rule of thirds, dramatic low angle, negative space on the edges. High contrast, 8k, --ar 16:9"

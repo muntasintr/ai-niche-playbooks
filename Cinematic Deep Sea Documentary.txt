@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Cinematic Deep Sea Documentary
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: বিজ্ঞান ও প্রকৃতিপ্রেমী দর্শক যারা অজানা রহস্য এবং রিল্যাক্সিং ডকুমেন্টারি দেখতে ভালোবাসেন। এই কন্টেন্টগুলো অনেকেই ঘুমানোর আগে "স্লিপ-এইড" বা স্ট্রেস রিলিফের জন্য দেখে থাকেন।
+* ভাইরাল হওয়ার মূল কারণ: অত্যন্ত হাই-কোয়ালিটি সিনেমাটিক ভিজ্যুয়াল, শান্ত ও গম্ভীর ভয়েসওভার এবং এমন সব অদ্ভুত প্রাণীর উপস্থাপন যা সাধারণত দেখা যায় না। এটি একই সাথে শিক্ষণীয় এবং মানসিকভাবে প্রশান্তিদায়ক।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ১০ থেকে ৬০ মিনিটের লং-ফর্ম ডকুমেন্টারি। অত্যন্ত ধীরগতির পেসিং, পিচ-ব্ল্যাক ভিজ্যুয়াল এবং সায়েন্টিফিক ডেপথ।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: অত্যন্ত মার্জিত, রহস্যময় এবং অ্যাকাডেমিক কিন্তু সাধারণ মানুষের জন্য আকর্ষণীয়। টাইটেলে "Mysteries", "Alien World", বা "Secret Life"-এর মতো কৌতূহল উদ্দীপক শব্দ ব্যবহার করা হয়।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Deep Sea Documentary channel. Follow the exact title psychology of: 'Mysteries of the Twilight Zone', 'The Secret Life of Brine Pools', and 'The Alien World of Deep Sea Molluscs'. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence psychological hook (focusing on mystery and wonder), 3. The core scientific conflict or revelation."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 2:00 (Hook): কাব্যিক ও রহস্যময় হুক (অজানার উদ্দেশ্যে যাত্রা)।
+* 2:00 - 5:00 (Environment): পরিবেশ বা জোন পরিচিতি (যেমন- মিডওয়াটার বা বেন্থিক জোন)।
+* 5:00 - 15:00 (Deep Dive): অদ্ভুত প্রাণীদের জীবনযাত্রা ও বৈজ্ঞানিক ব্যাখ্যা।
+* 15:00 - End (Conclusion): প্রকৃতির বিশালতা নিয়ে একটি দার্শনিক উপসংহার।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write a [Insert Length]-minute script for the title '[Insert Title]'. Tone: Deep, meditative, highly scientific yet poetic (David Attenborough style). Structure it perfectly following this framework: 0:00-2:00 Poetic hook about the unknown, 2:00-5:00 Deep-sea environment building, 5:00-15:00 Deep-dive into specific creatures/phenomena, 15:00-End Philosophical conclusion. Include precise visual and audio cues in brackets [e.g., slow drone drifting past a bioluminescent jellyfish in pitch black water | SFX: deep ocean rumble and subtle sonar] for the editor. Do not use generic AI language like 'In today's video'."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: পিচ-ব্ল্যাক ব্যাকগ্রাউন্ডে একটি অদ্ভুত, গ্লোয়িং বা ভীতিকর গভীর সমুদ্রের প্রাণীর ফোকাস থাকে। খুব সুন্দর, মার্জিত সেরিফ (Serif) ফন্ট দিয়ে লেখা ছোট টেক্সট। কোনো ক্লিকবেইট অ্যারো বা লাল বৃত্ত নেই, পুরোটাই প্রিমিয়াম সিনেমাটিক এবং ডার্ক ফিল।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Photorealistic macro underwater photography, pitch black deep sea environment. Subject: [Describe bizarre/bioluminescent deep-sea creature, e.g., glowing translucent jellyfish or deep sea squid]. Lighting: Lit by a single harsh ROV spotlight or natural bioluminescence, dramatic high contrast. Composition: Subject centered or slightly offset, massive negative space of pure black around it for elegant serif text placement. 8k, cinematic, highly detailed, --ar 16:9"

@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Cinematic City Reconstruction Documentary
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: ইতিহাসপ্রেমী, ট্রাভেল ভ্লগ ফ্যান এবং ডকুমেন্টারি দর্শক যারা টাইম ট্রাভেল বা অতীত কেমন ছিল তা চাক্ষুষ দেখতে পছন্দ করে। 
+* ভাইরাল হওয়ার মূল কারণ: 'টাইম ট্রাভেল' ফিলিং বা ইমার্সিভ এক্সপেরিয়েন্স। দর্শককে সরাসরি প্রাচীন রোম, মধ্যযুগীয় লন্ডন বা ১৭০০ শতকের প্যারিসের রাস্তায় হাঁটার অনুভূতি (POV) দেওয়া। ফিক্সড ক্যামেরার বদলে ড্রোন শট ও ডাইনামিক রিকনস্ট্রাকশন মানুষকে নস্টালজিক ও প্রবলভাবে কৌতূহলী করে তোলে। 
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ৮-১২ মিনিটের সিনেমাটিক হিস্টোরিক্যাল ট্যুর। ড্রোন শট থেকে শুরু করে রাস্তার ভেতরের ফার্স্ট-পারসন পিওভি (POV) দিয়ে স্টোরিটেলিং তৈরি করা হয়। নিখুঁত ডিটেইলসের ওপর ফোকাস রেখে মাসে ২-৩টি হাই-কোয়ালিটি ভিডিও আপলোড করা হয়।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলে টাইম ট্রাভেল, ইমার্সিভ এক্সপেরিয়েন্স এবং নির্দিষ্ট ঐতিহাসিক যুগের কথা সরাসরি উল্লেখ থাকে। "POV", "Walking through", বা "Time Travel" শব্দগুলো ব্যবহার করে দর্শককে ভিডিওতে প্রবেশ করতে বাধ্য করা হয়।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my [Cinematic City Reconstruction Documentary] channel. Follow the exact title psychology of: ['POV: Walking through Ancient Rome in 44 BC', 'Time Travel to 1700s Paris', 'A Day in Medieval London (Immersive Tour)']. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence immersive hook promising a time-travel experience, 3. The core historical elements and architecture to visualize."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:00 (The Time Jump Hook): দর্শককে বর্তমান থেকে অতীতে নিয়ে যাওয়ার ইমার্সিভ ইন্ট্রোডাকশন। একটি সাসপেন্সফুল ভয়েসওভারের মাধ্যমে ট্যুর শুরু করা।
+* 1:00 - 4:00 (The Grand Arrival): ড্রোন শটে বা ওয়াইড অ্যাঙ্গেলে শহরের বিশালত্ব, আর্কিটেকচার (যেমন- কলোসিয়াম, ক্যাসল বা প্রাচীন বাজার) এবং সামগ্রিক পরিবেশ দেখানো।
+* 4:00 - 7:00 (Street Level POV): ফার্স্ট-পারসন ভিউতে (POV) রাস্তার ভেতরের জীবন, ঘোড়ার গাড়ি, সাধারণ মানুষের কোলাহল এবং দৈনন্দিন কাজের খুব কাছ থেকে নেওয়া দৃশ্য।
+* 7:00 - 8:00 (Hidden Details & Outro): সেই যুগের কিছু অজানা বা গোপন তথ্য শেয়ার করা এবং দর্শককে পরবর্তী টাইম ট্রাভেল ট্যুরের জন্য আমন্ত্রণ জানিয়ে ভিডিও শেষ করা।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write an [8]-minute historical documentary script for the title '[Insert Title]'. Tone: Immersive, cinematic, storytelling-focused (Netflix documentary style). Structure it perfectly following this framework: [0-1m Time Jump Hook, 1-4m Aerial City View & Architecture, 4-7m Street Level POV & Daily Life, 7-8m Hidden Details & Outro]. Include precise visual and audio cues in brackets [e.g., First-person POV walking through a muddy medieval market | SFX: horse hooves, crowd murmurs, cinematic drone]. Do not use generic AI intros."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: থাম্বনেইলে প্রাচীন যুগের কোনো বিখ্যাত আর্কিটেকচারের সাথে মানুষের দৈনন্দিন জীবনের একটি ডাইনামিক ব্লেন্ড দেখানো হয়। ফার্স্ট-পারসন পার্সপেক্টিভ, সিনেমাটিক লাইটিং, ফগ এবং হাইপার-রিয়ালিস্টিক ডিটেইলস দর্শককে এক পলকেই টাইম ট্রাভেলের ফিল দেয়।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Hyper-realistic cinematic documentary YouTube thumbnail. First-person POV looking down a bustling, muddy street in [e.g., Ancient Rome or Medieval London]. Citizens in authentic period clothing, merchants trading, horse-drawn carriages, with massive historical architecture looming in the background. Cinematic golden hour lighting mixed with thick atmospheric fog, epic scale, dynamic depth of field, 8k resolution, photorealistic, --ar 16:9"

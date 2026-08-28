@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Dark Maritime Mythology
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: ইতিহাস, মিথলজি এবং ডার্ক ফ্যান্টাসিপ্রেমী দর্শক যারা গভীর এবং রহস্যময় স্টোরিটেলিং পছন্দ করেন।
+* ভাইরাল হওয়ার মূল কারণ: রেফারেন্স ফাইল "download (2).jpg" অনুযায়ী, এই চ্যানেলটি (Bilge Rats) অত্যন্ত হাই-কোয়ালিটি, ডার্ক সিনেমাটিক আর্টওয়ার্ক এবং রহস্যময় টাইটেলের সমন্বয় ঘটায়। তাদের সিক্রেট সস হলো—মিথলজিকে নিছক গল্প হিসেবে না দেখিয়ে, ঐতিহাসিক দৃষ্টিকোণ থেকে এর পেছনের ভয় ও সাইকোলজিকে বিশ্লেষণ করা।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ভিডিওর দৈর্ঘ্য সাধারণত ২০-৩০ মিনিট। ফ্রিকোয়েন্সি সপ্তাহে ১-২টি। লম্বা, ডকুমেন্টারি স্টাইলের ভিডিও যা দর্শককে স্ক্রিনে আটকে রাখে।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: "download (2).jpg" এর টাইটেলগুলো (যেমন: "The Real Calypso", "Cursed Pirate Treasures That Destroyed Everyone") মানুষের কৌতূহল এবং ভয়কে ট্রিগার করে। তারা "The Real...", "Destroyed", "Cursed" এর মতো পাওয়ার-ওয়ার্ড ব্যবহার করে।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Dark Maritime History channel. Follow the exact title psychology of: 'Calypso - The Real Sea Goddess Sailors Actually Worshipped', '8 Cursed Pirate Treasures That Destroyed Everyone'. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence psychological hook, 3. The core conflict."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 2:00 (Hook): একটি রহস্যময় ম্যাপ বা ঐতিহাসিক ঘটনা দিয়ে শুরু।
+* 2:00 - 10:00 (Build-up): ইতিহাস এবং মিথের মেলবন্ধন।
+* 10:00 - 20:00 (Climax): নাবিকদের সাইকোলজি, ভয় এবং মিথের আসল রূপ।
+* 20:00 - End (Outro): একটি গভীর, দার্শনিক সমাপ্তি।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write a 20-minute script for the title '[Insert Title]'. Tone: Dark, mysterious, authoritative, historical documentary. Structure it perfectly following this framework: Hook (Mystery), Build-up (Historical Context), Climax (Psychological Fear), Outro (Philosophical thought). Include precise visual cues in brackets [e.g., slow pan over 18th-century pirate map | SFX: distant thunder and creaking wood] for the editor. Do not use generic AI language."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: "download (2).jpg" ফাইলে দেখা যায়, তাদের থাম্বনেইলে কোনো টেক্সট নেই (বা থাকলেও খুবই সামান্য)। তারা ডার্ক, হাই-কন্ট্রাস্ট এবং হাইপার-রিয়ালিস্টিক সিনেমাটিক ইমেজ ব্যবহার করে যা সরাসরি কৌতূহল জাগায় (যেমন: জ্বলন্ত জাহাজ, রহস্যময় চোখ বা অন্ধকার গুহা)।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Hyper-realistic dark fantasy YouTube thumbnail, cinematic 3D lighting. Subject: [Describe central focus, e.g., a weathered 18th-century pirate staring at a glowing sea artifact]. Environment: [e.g., dense fog, turbulent stormy ocean, dark moody sky]. Composition: Close-up on the subject, dramatic shadows, high contrast, muted color palette with one glowing element. No text, 8k resolution, --ar 16:9"

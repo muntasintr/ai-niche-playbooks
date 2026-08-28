@@ -1,0 +1,30 @@
+🎯 **চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)**
+নিশ: Hyper-Realistic Wildlife Drama (No Voiceover)
+
+**১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)**
+
+* **কোর নিশ এবং টার্গেট অডিয়েন্স:** এই কন্টেন্টটি মূলত হার্ডকোর ন্যাচার লাভার এবং যারা হাই-টেনশন ড্রামা (অ্যানিমেল ফাইট) বা স্যাটিসফায়িং কন্টেন্ট (প্যারাসাইট বা টিকস রিমুভাল) দেখতে পছন্দ করেন, তাদের জন্য।
+* **ভাইরাল হওয়ার মূল কারণ:** কোনো ভয়েসওভার না থাকায় এটি ১০০% গ্লোবাল কন্টেন্ট, যা যেকোনো ভাষার দর্শক উপভোগ করতে পারে। এর মূল সিক্রেট হলো এক্সট্রিম ভিজ্যুয়াল কোয়ালিটি এবং সাউন্ড ডিজাইন। স্লো-মোশন অ্যাকশন এবং ডিটেইলড ভিজ্যুয়ালের কারণে দর্শক চোখ সরাতে পারে না।
+* **কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি:** ভিডিওগুলো সাধারণত দীর্ঘ হয় (৮-১৫ মিনিট) এবং একটি ভিডিওতেই দুটি ভিন্ন ইমোশনাল আর্ক থাকে—যেমন প্রথমে ভয়ানক ফাইট (টেনশন) এবং পরে রিল্যাক্সিং প্যারাসাইট ক্লিনিং (স্যাটিসফ্যাকশন), যা অডিয়েন্স রিটেনশন মারাত্মকভাবে বাড়িয়ে দেয়।
+
+**২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)**
+
+* **টাইটেল সাইকোলজি:** টাইটেলগুলো অত্যন্ত সংক্ষিপ্ত এবং সরাসরি ইমোশনে আঘাত করে (Fear, Curiosity, Relief)। যেমন: "FATAL MISTAKE", "1000+ PARASITES GONE!", "DEFEND OR DIE?"।
+* **Master Idea Prompt:**
+"You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Hyper-Realistic Wildlife channel. Follow the exact title psychology of: '1000+ PARASITES GONE!', 'FATAL MISTAKE', and 'DEFEND OR DIE?'. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence psychological hook, 3. The core conflict."
+
+**৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)**
+
+* **স্ক্রিপ্ট স্ট্রাকচার:** ভয়েসওভার না থাকায় সম্পূর্ণ স্ক্রিপ্টটি ভিজ্যুয়াল এবং অডিও কিউ-এর ওপর নির্ভরশীল।
+* **0:00 - 0:30 (Hook):** এক্সট্রিম ক্লোজ-আপে বিপদের আভাস (যেমন: সাপের চোখ বা মহিষের শরীরের প্যারাসাইট)।
+* **0:30 - 3:00 (Build-up):** প্রতিপক্ষের মুখোমুখি অবস্থান এবং টেনশন বিল্ডআপ।
+* **3:00 - 6:00 (Climax):** স্লো-মোশন অ্যাকশন, ফাইট বা অ্যাটাক।
+* **6:00 - 8:00 (Resolution):** বিজয়, খাওয়া বা রিল্যাক্সিং প্যারাসাইট রিমুভাল প্রসেস।
+* **Master Script Prompt:**
+"You are a Master Scriptwriter. Write a 8-minute visual-only script for the title '[Insert Title]'. Tone: Intense, suspenseful, leading to a satisfying resolution. Structure it perfectly following this framework: Hook (0:00-0:30), Build-up (0:30-3:00), Climax (3:00-6:00), Resolution (6:00-8:00). Include precise visual and audio cues in brackets [e.g., Extreme macro low-angle of a spitting cobra releasing venom | SFX: high-pitched hiss and slow-mo liquid spray] for the editor. Do not write spoken dialogue or voiceover lines."
+
+**৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)**
+
+* **থাম্বনেইল কেন কাজ করছে:** থাম্বনেইলগুলোর প্রধান শক্তি হলো সাবজেক্টের এক্সট্রিম ক্লোজ-আপ এবং হাই-কন্ট্রাস্ট কালার। তারা অতিরিক্ত টেক্সট ব্যবহার করে না, বরং ভিজ্যুয়াল দিয়ে গল্প বলে। স্যাটিসফায়িং বা ভয়ানক মুহূর্তটি (যেমন: সাপের কামড় বা টিকস) ফোকাসে থাকে।
+* **Master Thumbnail Prompt (For Midjourney/DALL-E):**
+"Hyper-realistic YouTube thumbnail image, 3D cinematic wildlife photography. Subject: Extreme close-up of [Insert Animal 1] clashing with [Insert Animal 2] / Extreme macro of [Parasite] on [Animal]. Environment: Golden hour lighting in a dusty African savanna. Composition: Dramatic low angle, dynamic action pose, rule of thirds, negative space on the top right for text. High contrast, highly detailed fur and scales, 8k, --ar 16:9"

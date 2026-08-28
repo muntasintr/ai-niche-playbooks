@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Premium Science Documentary
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: সায়েন্স, স্পেস এবং হিস্ট্রি লাভাররা এর প্রধান অডিয়েন্স। যারা ইউটিউবে বিনোদনের পাশাপাশি নতুন কিছু শিখতে চায় এবং কোয়ালিটি কন্টেন্ট (টিভি ডকুমেন্টারির মতো) দেখতে পছন্দ করে, তারা এই ধরনের ভিডিও একটানা দেখে।
+* ভাইরাল হওয়ার মূল কারণ: হাই-এন্ড থ্রিডি (3D) ভিজ্যুয়াল এবং শান্ত, গম্ভীর ভয়েসওভারের পারফেক্ট কম্বিনেশন। এরা সাধারণ তথ্যগুলোকে এমন এক মহাকাব্যিক (epic) স্কেলে উপস্থাপন করে যা দর্শককে মন্ত্রমুগ্ধ করে রাখে। থাম্বনেইলগুলো খুবই প্রিমিয়াম এবং টেক্সট-ফ্রি, যা ক্লিক করতে বাধ্য করে।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ভিডিওর দৈর্ঘ্য সাধারণত ১৫ থেকে ২০ মিনিটের বেশি হয়। এরা কোয়ালিটির ওপর জোর দেয়, তাই মাসে হয়তো ২-৩টি ভিডিও আপলোড করে। স্ক্রিপ্ট এমনভাবে লেখা হয় যাতে অডিয়েন্স রিটেনশন (Audience Retention) একদম শেষ পর্যন্ত ধরে রাখা যায়।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: এদের টাইটেলগুলো খুবই ব্রড, রহস্যময় এবং অতীত বা ভবিষ্যৎ নিয়ে তৈরি হয়। এরা এমন প্রশ্ন বা কনসেপ্ট ছুঁড়ে দেয় যা মানুষের কৌতূহল (Curiosity) কয়েকগুণ বাড়িয়ে দেয় (যেমন: "When Earth Was A Different World...", "Journey BEYOND The Solar System")।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my [Cinematic Science & Space Documentary] channel. Follow the exact title psychology of: ['When Earth Was A Different World', 'The Most DESTRUCTIVE System Ever Discovered', 'Anomalies in the Universe']. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence psychological hook, 3. The core scientific conflict or mystery."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:30 (Hook): বর্তমান পৃথিবীর সাথে তুলনা করে অতীত বা মহাকাশের এক অদ্ভুত সময়ের ভিজ্যুয়ালাইজেশন।
+* 1:30 - 10:00 (Build-up & Facts): নির্দিষ্ট কোনো যুগ, প্রাণী বা গ্রহ নিয়ে বিস্তারিত সায়েন্টিফিক ডেটা (স্লো পেসিং-এ)।
+* 10:00 - 18:00 (The Climax): কোনো বড় পরিবর্তন, যেমন—উল্কাপাত, মহাবিলুপ্তি (Extinction) বা বড় কোনো আবিষ্কার।
+* 18:00 - 20:00 (Resolution): একটি দার্শনিক এবং মহাকাব্যিক সমাপ্তি।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter for high-end science documentaries. Write a [15]-minute script for the title '[Insert Title]'. Tone: [Meditative, awe-inspiring, authoritative, deeply educational]. Structure it perfectly following this framework: [0:00-1:30 Cinematic Hook comparing present to past/unknown, 1:30-10:00 Deep dive into facts, 10:00-18:00 Climactic event/extinction, 18:00-20:00 Philosophical conclusion]. Include precise visual and audio cues in brackets [e.g., slow drone push-in over hyper-realistic 3D Pangaea | SFX: low frequency cinematic rumble] for the editor. Do not use generic AI language like 'In today's video' or 'Welcome back'."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: থাম্বনেইল স্ট্র্যাটেজি হলো "Cinematic Minimalism"। এরা পুরো স্ক্রিন জুড়ে একটি বিশাল অবজেক্ট (গ্রহ, উল্কা বা ডাইনোসর) দেখায়, যা স্কেল বা বিশালত্ব বোঝায়। টেক্সট থাকে মাত্র ১ থেকে ৩ ওয়ার্ডের (যেমন: "KILLER", "MONSTERS", "THIS IS PLUTO") এবং কোনো ক্লিকবেইট ইমোজি বা মানুষের রিঅ্যাকশন ফেস থাকে ঘন।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Hyper-realistic cinematic documentary thumbnail, 3D CGI render. Subject: [A massive terrifying prehistoric insect on a gigantic glowing tree branch / A glowing anomalous planet deep in space]. Environment: [Cinematic atmospheric lighting, cosmic lens flare, deep shadows]. Composition: Extreme scale comparison, subject centered, vast negative space for minimal text. BBC documentary style, high contrast, 8k resolution, Unreal Engine 5 render, --ar 16:9"

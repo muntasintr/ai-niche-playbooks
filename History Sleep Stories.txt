@@ -1,0 +1,33 @@
+🎯 **চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)**
+নিশ: History Sleep Stories
+
+**১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)**
+
+* **কোর নিশ এবং টার্গেট অডিয়েন্স:** এই চ্যানেলের মূল অডিয়েন্স হলো ইনসমনিয়াক (যাদের ঘুমের সমস্যা আছে) অথবা যারা রাতে ঘুমানোর সময় ব্যাকগ্রাউন্ডে শান্ত কিছু শুনতে পছন্দ করেন। ইতিহাসপ্রেমীরাও এর বড় ভক্ত, কারণ তারা রিল্যাক্সিং উপায়ে নতুন কিছু শিখতে চান।
+* **ভাইরাল হওয়ার মূল কারণ:** এই চ্যানেলের 'Secret Sauce' হলো—এটি ব্রেইনকে ব্যস্ত রাখার মতো যথেষ্ট কৌতূহল জাগায় (যাতে আজেবাজে চিন্তা মাথায় না আসে), কিন্তু একইসাথে এর ভয়েসওভার, অডিও এবং ভিজ্যুয়াল এতটাই শান্ত যে ব্রেইন খুব সহজেই ঘুমের দেশে চলে যায়। এর ডার্ক থিম চোখের জন্য আরামদায়ক।
+* **কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি:** ভিডিওগুলো সাধারণত অনেক লম্বা হয় (১ থেকে ৩ ঘণ্টা), যাতে পুরো রাত ব্যাকগ্রাউন্ডে চলতে পারে। আপলোড ফ্রিকোয়েন্সি খুব বেশি না হলেও, এভারগ্রিন কন্টেন্ট হওয়ার কারণে বছরের পর বছর ভিউ আসতে থাকে।
+
+**২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)**
+
+* **টাইটেল সাইকোলজি:** টাইটেলগুলো সাধারণত সোজাসাপ্টা এবং দর্শকদের এটা পরিষ্কার করে বুঝিয়ে দেয় যে এটি ঘুমের জন্য তৈরি। "BORING HISTORY FOR SLEEP" ব্র্যান্ডিংটি তাদের সিগনেচার।
+* **Title Patterns:**
+* "Boring History for Sleep: The Complete Story of the Odyssey"
+* "Boring History for Sleep: The Life of Julius Caesar"
+* "Boring History for Sleep: Ancient Egyptian Mysteries"
+
+
+* **Master Idea Prompt:**
+"You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my [History Sleep Story] channel. Follow the exact title psychology of: ['Boring History for Sleep: The Complete Story of the Odyssey', 'Boring History for Sleep: The Life of Julius Caesar', 'Boring History for Sleep: Ancient Egyptian Mysteries']. For each idea, provide: 1. A Clickable Title, 2. A 2-sentence psychological hook (focused on relaxation and mild curiosity), 3. The core historical timeline."
+
+**৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)**
+
+* **0:00 - 2:00 (The Induction):** দর্শকদের রিল্যাক্স হতে বলা, লাইট অফ করা এবং চোখের পাতা ভারী হতে দেওয়ার ইনস্ট্রাকশন।
+* **2:00 - End (The Journey):** অত্যন্ত ধীর গতিতে, প্রচুর বর্ণনামূলক শব্দের মাধ্যমে ইতিহাসের ঘটনাগুলো পর্যায়ক্রমে বলা। কোনো এক্সাইটমেন্ট বা নাটকীয়তা থাকবে না।
+* **Master Script Prompt:**
+"You are a Master Scriptwriter and Sleep Therapist. Write a [45]-minute script for the title '[Boring History for Sleep: The Fall of Troy]'. Tone: [Meditative, extremely slow-paced, atmospheric, and highly descriptive]. Structure it perfectly following this framework: Start with a 2-minute sleep induction (asking the viewer to dim lights and relax), followed by a slow chronological retelling of the history. Include precise visual and audio cues in brackets [e.g., slow pan over dark 2D map of ancient Greece | SFX: soft distant ocean waves and low synth drone] for the editor. Do not use generic AI language like 'In today's video' or 'Welcome back'. Ensure the language is hypnotic and soothing."
+
+**৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)**
+
+* **থাম্বনেইল কেন কাজ করছে:** আপনার শেয়ার করা "download (1)_4.jpg" ফাইলে যেমন দেখা যাচ্ছে, এই থাম্বনেইলগুলোর সিক্রেট হলো এদের কনসিস্টেন্সি। বড়, স্পষ্ট ফন্টে "BORING HISTORY FOR SLEEP" লেখা থাকে। কালার প্যালেট খুব ডার্ক এবং ওয়ার্ম (খয়েরি, গাঢ় হলুদ, কালো), যা দেখলেই চোখের আরাম লাগে। 2D ভেক্টর আর্ট স্টাইলের কারণে এটি ডকু-সিরিজের মতো প্রফেশনাল ভাইব দেয়।
+* **Master Thumbnail Prompt (For Midjourney/DALL-E):**
+"2D flat vector historical illustration, ancient Greek setting. Subject: A calm, stoic Greek philosopher sitting by a dim fire. Environment: Dark night time, shadowy ancient pillars, muted warm amber lighting. Composition: Rule of thirds. Large empty negative space at the top or left for bold text. Color palette: dark browns, sepia, warm muted oranges. Relaxing atmosphere, minimal details, 8k, --ar 16:9"

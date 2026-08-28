@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: 2D Islamic Moral Story (Animated)
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই চ্যানেলের মূল অডিয়েন্স হলো বাংলা ভাষাভাষী ধর্মপ্রাণ মুসলিম পরিবার[cite: 9]। বাবা-মায়েরা তাদের সন্তানদের নৈতিকতা ও ধর্মীয় শিক্ষা দেওয়ার জন্য এই ধরনের ভিডিওগুলো দেখান[cite: 9]। পাশাপাশি প্রাপ্তবয়স্করাও ইমোশনাল এবং শিক্ষণীয় গল্পের প্রতি প্রবল আকর্ষণ বোধ করেন[cite: 9]।
+* ভাইরাল হওয়ার মূল কারণ: ইমোশনাল কানেকশন এবং "ডিভাইন জাস্টিস" বা ঐশ্বরিক বিচার[cite: 9]। দর্শকরা দেখতে পছন্দ করেন যখন একজন সৎ ও গরিব মানুষ অনেক কষ্ট সহ্য করার পর আল্লাহর রহমতে পুরস্কৃত হয় এবং অহংকারী বা লোভী মানুষ তার কর্মের শাস্তি পায়[cite: 9]। শান্ত ভয়েসওভার এবং সুন্দর ২ডি আর্ট স্টাইল দর্শকদের গল্পের ভেতরে ধরে রাখে[cite: 9]।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ভিডিওর দৈর্ঘ্য সাধারণত ১৫ থেকে ৩০ মিনিটের মধ্যে হয়, যা ওয়াচটাইম (AVD) অনেক বাড়িয়ে দেয়[cite: 9]। এরা নিয়মিত আপলোড করে এবং প্রতিটি গল্পে একটি নির্দিষ্ট মোরাল বা শিক্ষণীয় দিক থাকে[cite: 9]।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: টাইটেলগুলো সাধারণত কৌতূহল জাগানো এবং শিক্ষণীয় হয়[cite: 9]। মূল চরিত্রের নাম বা পেশা উল্লেখ থাকে এবং ব্র্যাকেট বা পাইপ দিয়ে "ইসলামিক শিক্ষণীয় গল্প" কথাটি যুক্ত করা থাকে[cite: 9]। যেমন: "দয়ালু কাঠুরিয়ার গল্প!", "অহংকারী জেলের পরিণতি"[cite: 9]।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Bengali Islamic Moral Story channel. Follow the exact title psychology of: [কামারের ছেলে ও জাদুকরের কাহিনী! ইসলামিক শিক্ষণীয় গল্প], [এক গরিব জেলের কাহিনী! Moral Islamic Stories], [নেকির ফলের অদ্ভুত কাহিনী!]. For each idea, provide: 1. A Clickable Bengali Title with English tags, 2. A 2-sentence psychological hook, 3. The core conflict (Piety vs Greed/Hardship)."[cite: 9]
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 2:00 (Introduction): প্রধান চরিত্র এবং তার দারিদ্র্য/কষ্টের ইমোশনাল বর্ণনা[cite: 9]।
+* 2:00 - 8:00 (The Test): চরিত্রের সততার পরীক্ষা[cite: 9]। সে নিজে না খেয়েও অন্যকে সাহায্য করে বা আল্লাহর উপর তাওয়াক্কুল করে[cite: 9]।
+* 8:00 - 12:00 (The Miracle): ঐশ্বরিক সাহায্য বা অলৌকিক পুরস্কার লাভ[cite: 9]।
+* 12:00 - 15:00 (The Villain's Fall): লোভী চরিত্রের আগমন, একই কাজ করার চেষ্টা এবং চরম ব্যর্থতা[cite: 9]। শেষে একটি স্ট্রং মোরাল লেসন[cite: 9]।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write a 15-minute script for the title '[Insert Title]'. Tone: Deeply emotional, pious, and storytelling. Structure it perfectly following this framework: [0-2m: Intro to poor pious hero, 2-8m: The ultimate test of faith, 8-12m: Divine miracle/reward, 12-15m: Arrogant villain tries to copy and fails miserably + Moral lesson]. Include precise visual and audio cues in brackets [e.g., slow pan over poor mud house | SFX: morning birds, soft river flow] for the editor. Write the narration in pure, emotional Bengali."[cite: 9]
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: থাম্বনেইলে হাই-কন্ট্রাস্ট ২ডি ইলাস্ট্রেশন ব্যবহার করা হয়[cite: 9]। গল্পের মূল সাসপেন্স বা মিরাকেল মুহূর্তটি তুলে ধরা হয় (যেমন— মাছের পেট থেকে সোনা বের হওয়া, জাদুকরের আগুন)[cite: 9]। চরিত্রগুলোর এক্সপ্রেশন খুব স্পষ্ট থাকে[cite: 9]। সাধারণত বড় করে হলুদ বা সাদা টেক্সটে বাংলায় গল্পের মূল থিম লেখা থাকে যা চোখে খুব দ্রুত ক্যাচ করে[cite: 9]।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "High-quality 2D vector storybook illustration, classic rural Bengali aesthetic. Subject: [e.g., A poor, surprised fisherman in torn clothes holding a giant glowing fish filled with shiny gold coins]. Environment: [e.g., Inside a dim, rustic mud house lit by a warm oil lamp]. Composition: Expressive faces, high contrast cinematic lighting, golden hour glow emphasizing the miracle. Negative space on the top/right for text. 8k, highly detailed, --ar 16:9"[cite: 9]

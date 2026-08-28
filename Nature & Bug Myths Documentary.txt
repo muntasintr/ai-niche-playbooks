@@ -1,0 +1,29 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Nature & Bug Myths Documentary
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই চ্যানেলের মূল অডিয়েন্স হলো সাধারণ বাড়ির মালিক, প্রকৃতিপ্রেমী এবং কৌতূহলী মানুষ। মানুষ তাদের আশেপাশে থাকা সাধারণ পোকামাকড় নিয়ে ভয় পায় বা ভুল ধারণা রাখে, এই চ্যানেলটি সেই সাইকোলজি নিয়ে কাজ করে।
+* ভাইরাল হওয়ার মূল কারণ: "Curiosity Gap" এবং "Fear Factor"। এরা খুব সাধারণ একটি জিনিস (যেমন- দেয়ালে মাটির বাসা বা একটি পোকা) দেখিয়ে বলে যে, "আপনি সারা জীবন এটা ভুল ভেবেছেন"। এরপর তারা ভয়ংকর বা চমকপ্রদ একটি বৈজ্ঞানিক সত্য তুলে ধরে (যেমন- মাটির বাসার ভেতরে প্যারালাইজড ব্ল্যাক উইডো মাকড়সা থাকে)।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ভিডিওগুলো সাধারণত ৮-১০ মিনিটের হয়। তারা অত্যন্ত সাসপেন্সফুল স্টোরিটেলিং ব্যবহার করে, যার কারণে অডিয়েন্স রিটেনশন (AVD) অনেক বেশি থাকে। সপ্তাহে ১-২টি হাই-কোয়ালিটি ভিডিও আপলোড করা হয়।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: এরা টাইটেলে সবসময় ছোট এবং সতর্কতামূলক বাক্য ব্যবহার করে। সবগুলো অক্ষর বড় হাতের (ALL CAPS) থাকে এবং এমনভাবে লেখা হয় যেন দর্শক ক্লিক করতে বাধ্য হয়। যেমন: "DON'T CRUSH IT", "NEVER TOUCH THIS", "EVERYONE GETS THIS WRONG"।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my [Backyard Bug Myths Documentary] channel. Follow the exact title psychology of: ['DON'T CRUSH IT', 'EVERYONE GETS THIS WRONG', 'NEVER TOUCH THIS SPIDER']. For each idea, provide: 1. A Clickable Title in ALL CAPS, 2. A 2-sentence psychological hook, 3. The core myth-busting scientific reality."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:00 (The Hook & Myth): প্রথমে একটি পোকা বা প্রাণীকে পরিচয় করিয়ে দেওয়া এবং মানুষ সাধারণত যে ভুল কাজটি করে (যেমন- মেরে ফেলা বা ভয় পাওয়া) সেটি তুলে ধরা।
+* 1:00 - 4:00 (The Secret Reality): পোকাটির আসল এবং চমকপ্রদ কাজগুলো দেখানো (যেমন- এরা ক্ষতিকর নয়, বরং অন্যান্য বিষাক্ত পোকা শিকার করে)।
+* 4:00 - 7:00 (The Deep Dive): প্রাণীটির এনাটমি এবং কীভাবে তারা কাজ করে তার বৈজ্ঞানিক বিশ্লেষণ।
+* 7:00 - 8:00 (Conclusion): কেন তাদের বাঁচতে দেওয়া উচিত এবং প্রকৃতির জন্য তারা কতটা জরুরি, সেই বার্তা দিয়ে শেষ করা।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write a [8]-minute documentary script for the title '[Insert Title]'. Tone: [Deep, authoritative, suspenseful, and myth-busting]. Structure it perfectly following this framework: [0-1m Hook & Myth, 1-4m The Secret Reality, 4-7m Scientific Deep Dive, 7-8m Conclusion/Warning]. Include precise visual and audio cues in brackets [e.g., Extreme macro shot of a wasp stinger | SFX: Low bass boom and microscopic clicking] for the editor. Do not use generic AI language like 'In today's video'."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: থাম্বনেইলে মানুষের হাত একটি অদ্ভুত বা বিপজ্জনক পোকার দিকে এগিয়ে যাচ্ছে, এমন দৃশ্য দেখানো হয়। এটি অবচেতনভাবেই মানুষের মনে ভয় এবং কৌতূহল তৈরি করে। এর সাথে বোল্ড টেক্সট (যেমন- NEVER TOUCH IT) ক্লিক-থ্রু রেট (CTR) আকাশচুম্বী করে দেয়।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Hyper-realistic macro YouTube thumbnail image, documentary style. Subject: [A human hand with an outstretched index finger reaching very close to a terrifying-looking insect, e.g., a large kissing bug or mud dauber wasp]. Environment: [Natural outdoor lighting, blurred background like a brick wall or porch]. Composition: Dramatic low angle, insect is in sharp focus, extreme tension. Negative space at the top for massive text. High contrast, 8k, --ar 16:9"

@@ -1,0 +1,30 @@
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Cinematic Epic History Documentary
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+* কোর নিশ এবং টার্গেট অডিয়েন্স: এই চ্যানেলের মূল দর্শক হলো ইতিহাসপ্রেমী (History nerds), স্ট্র্যাটেজি গেমার (Total War/Age of Empires ফ্যান) এবং এপিক মুভির (Gladiator, 300) ভক্তরা। তারা গভীর, অ্যানালিটিক্যাল কিন্তু বিনোদনমূলক কন্টেন্ট পছন্দ করে।
+* ভাইরাল হওয়ার মূল কারণ: এদের সিক্রেট সস হলো—"Scale and Stakes" (বিশালত্ব এবং ঝুঁকি)। এরা শুধু ইতিহাস বলে না, বরং হাই-কোয়ালিটি 3D ভিজ্যুয়াল, এপিক মিউজিক এবং কমান্ডিং ভয়েসওভার দিয়ে দর্শককে সরাসরি যুদ্ধক্ষেত্রে দাঁড় করিয়ে দেয়। ভিজ্যুয়ালের কোয়ালিটি নেটফ্লিক্স লেভেলের হওয়ায় দর্শক স্ক্রল করতে পারে না।
+* কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ভিডিওর দৈর্ঘ্য সাধারণত ১০ থেকে ৩০ মিনিটের মধ্যে হয় (লং-ফর্ম)। এরা খুব দ্রুত ভিডিও দেয় না, কারণ প্রতিটি ভিডিওর স্ক্রিপ্ট, ভিজ্যুয়াল এবং ম্যাপ অ্যানিমেশন অত্যন্ত ডিটেইলড। কোয়ালিটির ওপরই এদের পুরো স্ট্র্যাটেজি দাঁড়িয়ে আছে।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+* টাইটেল সাইকোলজি: এরা টাইটেলে সবসময় বিশাল সংখ্যার কনট্রাস্ট (অসম যুদ্ধ) এবং এক্সট্রিম ইমোশন ব্যবহার করে। যেমন: "47,000 vs 250,000", "The Trap That Destroyed...", "How Rome Wiped a 700 Year Empire Off the Map"।
+* Master Idea Prompt: 
+  "You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my Cinematic Ancient History channel. Follow the exact title psychology of: [1. '47,000 vs 250,000 - Alexander Ends an Empire', 2. 'The Trap That Destroyed the Largest Fleet', 3. 'How Hannibal Trapped 40,000 Romans']. For each idea, provide: 1. A Clickable Title featuring massive numbers or extreme strategic stakes, 2. A 2-sentence psychological hook immersing the viewer in the general's perspective, 3. The core strategic conflict."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+* 0:00 - 1:00 (The Immersion Hook): দর্শককে সরাসরি লোকেশনে নিয়ে যাওয়া ("Picture this... You are standing at...").
+* 1:00 - 4:00 (The Threat / Context): শত্রুর বিশালত্ব এবং ম্যাপের মাধ্যমে জিওপলিটিক্যাল অবস্থা বোঝানো।
+* 4:00 - 8:00 (The Strategy): কীভাবে সেনাপতি প্ল্যান সাজাচ্ছেন (যেমন: জুলিয়াস সিজারের দুই দিকের দেয়াল তৈরি)।
+* 8:00 - 12:00 (The Clash): যুদ্ধের মূল অংশ, ডাইনামিক ভিজ্যুয়াল এবং সাউন্ড ইফেক্টসহ।
+* 12:00 - End (The Aftermath): যুদ্ধের ফলাফল এবং ইতিহাসের পাতায় এর প্রভাব।
+* Master Script Prompt: 
+  "You are a Master Scriptwriter. Write a 10-minute script for the title '[Insert Title]'. Tone: Deep documentary male, authoritative, stoic, and highly dramatic. Structure it perfectly following this framework: 1. Immersion Hook, 2. The Threat/Context, 3. The Strategy, 4. The Clash, 5. The Aftermath. Include precise visual cues in brackets [e.g., slow drone push-in over a massive Roman legion marching in the mud | SFX: rhythmic marching boots, heavy cinematic boom] for the editor. Focus on the psychological weight of the commanders. Do not use generic AI language like 'In today's video'."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+* থাম্বনেইল কেন কাজ করছে: এদের থাম্বনেইলের মূল শক্তি হলো "Scale" এবং "Direct Eye Contact"। একপাশে বিশাল সৈন্যবাহিনী এবং অন্যপাশে একজন সিরিয়াস, রাগী সেনাপতি সরাসরি ক্যামেরার দিকে তাকিয়ে থাকে। কালার প্যালেট থাকে ডার্ক, হাই-কনট্রাস্ট (লাল, সোনালি, কালো)। অনেক সময় টাইটেলে না লিখে থাম্বনেইলের ভেতরে বিশাল সংখ্যা লেখা থাকে (যেমন: 70,000 vs 120,000)।
+* Master Thumbnail Prompt (For Midjourney/DALL-E): 
+  "Hyper-realistic cinematic YouTube thumbnail, Unreal Engine 5 render style. Subject: A battle-hardened ancient Roman general in highly detailed ornate armor, looking directly at the camera with a stoic, intense expression in the foreground. Environment: In the background, a massive, endless legion of soldiers marching through a misty, dusty battlefield. Composition: Rule of thirds, dramatic low angle, extreme depth of field, negative space at the top center for text. Lighting: Moody overcast with striking golden hour sunlight piercing through the fog, high contrast chiaroscuro, 8k, --ar 16:9"
