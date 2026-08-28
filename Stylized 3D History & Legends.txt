@@ -1,0 +1,47 @@
+ঠিক আছে, আগের ভুলটি বাদ দিচ্ছি। আপনার দেওয়া নতুন ফাইল থেকে একদম সঠিক ফরম্যাটে প্লেবুকটি তৈরি করে দিলাম:
+
+🎯 চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)
+নিশ: Stylized 3D History & Legends
+
+১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)
+
+কোর নিশ এবং টার্গেট অডিয়েন্স: এই চ্যানেলের মূল অডিয়েন্স হলো ইতিহাসপ্রেমী, স্টুডেন্ট এবং সাধারণ দর্শক যারা বোরিং পাঠ্যবইয়ের বদলে হাই-কোয়ালিটি ভিজ্যুয়াল স্টোরিটেলিং হিসেবে ইতিহাসকে এক্সপ্লোর করতে চায়।
+
+ভাইরাল হওয়ার মূল কারণ: চ্যানেলের প্রধান সিক্রেট সস হলো তাদের "Character-driven storytelling" এবং আইকনিক "Matte 3D" ক্যারেক্টার ডিজাইন। প্রতিটি থাম্বনেইলে চরিত্রগুলোর মুখের এক্সট্রিম এক্সপ্রেশন (যেমন বিরক্তি, রাগ বা বিস্ময়) দর্শকদের ইমোশনালি কানেক্ট করে। ব্যক্তিগত জীবনের সাথে ম্যাক্রো-হিস্ট্রি মিশিয়ে ফেলার এই স্টাইল দর্শককে শেষ পর্যন্ত আটকে রাখে।
+
+কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি: ভিডিওগুলো বেশ দীর্ঘ এবং তথ্যবহুল (৮-১৬ মিনিট)। হাই-এন্ড স্টাইলাইজড ভিজ্যুয়াল তৈরি করতে সময় লাগে, তাই তারা কোয়ালিটির সাথে আপস না করে প্রতি ২-৩ সপ্তাহে একটি করে প্রিমিয়াম ভিডিও আপলোড করে।
+
+২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)
+
+টাইটেল সাইকোলজি: এদের টাইটেলগুলো সরাসরি কৌতূহল তৈরি করে। তারা সাধারণত দুই ধরনের টাইটেল প্যাটার্ন ফলো করে: একটি হলো সরাসরি প্রশ্ন বা মিস্ট্রি এবং অন্যটি হলো স্পেসিফিক হিস্টোরিক্যাল ফোকাস।
+
+Title Patterns:
+
+"What Was Life Like In Medieval London?"
+
+"Did a Roman Army Really Reach Ancient China?"
+
+"The Greek King Who Transformed Buddhism"
+
+Master Idea Prompt:
+"You are an Elite YouTube Strategist. Generate 10 highly engaging video ideas for my [Stylized 3D History] channel. Follow the exact title psychology of: 'What Was Life Like In Medieval London?', 'The Greek King Who Transformed Buddhism', and 'Did a Roman Army Really Reach Ancient China?'. For each idea, provide: 1. A Clickable Question or Character-driven Title, 2. A 2-sentence psychological hook introducing a character or mystery, 3. The core historical conflict."
+
+৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)
+
+0:00 - 1:00 (Hook): মূল চরিত্র, সাল, জায়গার নাম বা ঐতিহাসিক রহস্যের সাথে সরাসরি পরিচয়।
+
+1:00 - 5:00 (Morning Routine & Build-up): দৈনন্দিন জীবন, সকালের খাবার, সমাজ ব্যবস্থা বা ক্যারেক্টারের মূল স্ট্রাগল নিয়ে আলোচনা।
+
+5:00 - 10:00 (Climax/Macro-History): ব্যক্তিগত জীবনের বাইরে গিয়ে বৃহত্তর ঐতিহাসিক ঘটনা, গিল্ড, ট্যাক্স, বা কিংবদন্তির সাথে সংযোগ।
+
+10:00 - End (Resolution): ঘটনার উপসংহার, উৎসব বা ঘুমানোর প্রস্তুতি এবং আজকের পৃথিবীতে এর প্রভাব দিয়ে শেষ করা।
+
+Master Script Prompt:
+"You are a Master Scriptwriter. Write a [10-15]-minute script for the title '[Insert Title]'. Tone: Engaging, educational, and dramatic documentary storytelling. Structure it perfectly following this framework: 1 min Hook introducing character/year -> 4 mins personal/daily life build-up -> 5 mins macro-historical impact/climax -> final resolution. Include precise visual cues in brackets [e.g., slow pan over stylized 3D map | SFX: horse trotting on cobblestones] for the editor. Do not use generic AI language like 'In today's video'."
+
+৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)
+
+থাম্বনেইল কেন কাজ করছে: তাদের থাম্বনেইলের সিগনেচার স্টাইল হলো ফোরগ্রাউন্ডে একটি বিশাল, অ্যাঙ্গুলার এবং হাইলি এক্সপ্রেসভ ৩ডি ক্যারেক্টার (যেমন রাগী গ্রিক নারী বা বিরক্ত মিশরীয় লোক) এবং ব্যাকগ্রাউন্ডে ব্লার করা ঐতিহাসিক ল্যান্ডমার্ক। ক্যারেক্টারের ওপর পড়া স্ট্রং রিম লাইট এবং স্টাইলাইজড বোল্ড টেক্সটের প্লেসমেন্ট এর CTR অবিশ্বাস্য লেভেলে বাড়িয়ে দেয়।
+
+Master Thumbnail Prompt (For Midjourney/DALL-E):
+"Stylized 3D animated character design, extreme caricature, sharp angular and blocky facial features, very long thin neck, large eyes with an exaggerated emotional expression [e.g., highly annoyed/shocked]. Subject: [Describe historical character and period-accurate clothing]. Medium: High-end stylized 3D render, matte skin texture, clay-like smooth shading, ABSOLUTELY NO glossy or shiny plastic reflections. Lighting: Cinematic dramatic lighting with a strong rim light on the character. Environment: A softly blurred, painterly 3D landscape of [Historical Location/Background] at [Time of day, e.g., warm sunset]. Composition: Character placed on the right side looking directly at camera, negative space on the left for text. Sony Pictures Animation aesthetic, masterpiece, 8k, Unreal Engine 5, --ar 16:9 --v 6.0 --style raw"
