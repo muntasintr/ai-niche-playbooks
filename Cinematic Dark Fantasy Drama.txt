@@ -1,0 +1,68 @@
+আপনার দেওয়া নতুন ফাইল অনুযায়ী প্লেবুকটি নিচে তৈরি করে দেওয়া হলো:
+
+🎯 **চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)**
+নিশ: Cinematic Dark Fantasy Drama
+
+**১. চ্যানেল ডিএনএ এবং ভাইরাল সাইকোলজি (Why They Get Views)**
+
+* **কোর নিশ এবং টার্গেট অডিয়েন্স:** ডার্ক ফ্যান্টাসি, ড্রাগন ও মনস্টার বন্ডিং এবং ইমোশনাল ড্রামা প্রেমী দর্শক।
+
+
+* **ভাইরাল হওয়ার মূল কারণ:** প্রথম ৩ সেকেন্ডের লাইফ-অর-ডেথ হুক, একটি অসহায় মেয়ের সাথে ড্রাগনের গভীর আবেগী সম্পর্ক এবং কুসংস্কারাচ্ছন্ন সমাজের নির্মম ট্র্যাজেডি।
+
+
+* **কন্টেন্ট স্ট্র্যাটেজি ও ফ্রিকোয়েন্সি:** ১০–২০ মিনিটের পূর্ণাঙ্গ সিনেমাটিক স্টোরি। হাই-এন্ড ভিজ্যুয়াল ও ভয়েস অ্যাক্টিং ফোকাসড। মাসে ২-৩টি হাই-রিটেনশন ভিডিও তৈরি করা হয়।
+
+
+
+**২. আইডিয়া ও টাইটেল জেনারেশন (Idea & Title Strategy)**
+
+* **টাইটেল সাইকোলজি:** আবেগী ও রহস্যময় টাইটেল যা কোনো নিষিদ্ধ সম্পর্ক বা ত্যাগকে নির্দেশ করে (যেমন: "The Mother's Monster", "She Raised a Beast")।
+
+
+* **Title Patterns:**
+* "The Mother's Monster"
+
+
+* "The Boy Who Befriended a Shadow"
+
+
+* "The Village That Burned an Angel"
+
+
+
+
+* **Master Idea Prompt:**
+"You are an Elite YouTube Fiction Strategist. Generate 10 viral video concepts for a Cinematic Dark Fantasy channel. Focus on forbidden bonds between outcast humans and mythical creatures. Follow the pattern of: 'The Mother's Monster', 'The Boy Who Befriended a Shadow', and 'The Village That Burned an Angel'. Provide: 1. Clickable Title, 2. 2-sentence emotional hook, 3. The core tragedy."
+
+
+
+**৩. স্ক্রিপ্ট ব্লুপ্রিন্ট (Scriptwriting Framework)**
+
+* **0:00 - 1:30 (Survival Hook):** চরম বিপদ ও মূল চরিত্রের সারভাইভাল ড্রাইভ।
+
+
+* **1:30 - 5:00 (The Secret Bond):** ক্রিয়েচারের জন্ম/উদ্ধার এবং গোপনে লালন-পালন।
+
+
+* **5:00 - 9:00 (Rising Suspicion):** সমাজের কুসংস্কার, গ্রামবাসীদের সন্দেহ এবং উত্তেজনা বৃদ্ধি।
+
+
+* **9:00 - 13:00 (Climax & Tragedy):** সরাসরি সংঘাত, বেদনাদায়ক ত্যাগ বা মৃত্যু।
+
+
+* **13:00 - End (Emotional Aftermath):** ক্রিয়েচারের শোক এবং শক্তিশালী শেষ বার্তা।
+
+
+* **Master Script Prompt:**
+"You are a Master Fantasy Screenwriter. Write a 12-minute cinematic script for '[Insert Title]'. Tone: Dark fantasy, emotionally intense, heartbreaking. Structure: Survival Hook (1.5 min), Secret Bond (3.5 min), Rising Suspicion (4 min), Tragic Climax (2 min), Aftermath (1 min). Include bracketed visual and audio directives [e.g., Close-up of creature's tearful eye | SFX: low cello hum]. Focus on character dialogue and high emotional stakes."
+
+
+
+**৪. থাম্বনেইল স্ট্র্যাটেজি (Thumbnail Psychology & Prompt)**
+
+* **থাম্বনেইল কেন কাজ করছে:** চোখের জল, তীব্র মানবিক আবেগ ও ভয়ের সাথে একটি নিখুঁত সিজিআই ড্রাগন/মনস্টারের বৈপরীত্য দর্শকদের ক্লিক করতে বাধ্য করে।
+
+
+* **Master Thumbnail Prompt (For Midjourney/DALL-E):**
+"Hyper-realistic cinematic dark fantasy YouTube thumbnail, 8k. Subject: A tearful young medieval woman holding a majestic, glowing white dragon close to her face, intense eye contact. Environment: Dark snowy village backdrop, muted cold tones, soft golden rim lighting. Dramatic low angle, cinematic depth of field, negative space for text, --ar 16:9"
