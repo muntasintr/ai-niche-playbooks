@@ -1,5 +1,3 @@
-আপনার দেওয়া নতুন ফাইল অনুযায়ী প্লেবুকটি নিচে তৈরি করে দেওয়া হলো:
-
 🎯 **চ্যানেল রেপ্লিকেশন প্লেবুক (Channel Replication Playbook)**
 নিশ: Cinematic Dark Fantasy Drama
 
